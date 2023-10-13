@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+      
+    <head>
+      <title>Shake Your Body, Baby</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Bootstrap demo</title>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+      <style>
+        #banner {
+          height: 260px;
+          width: 100%;
+          object-fit:cover;
+        }
+        
+      </style>
+    </head>
+
+
+  <body>
+    <img cass="img-fluid" id=banner src="https://printdb--demon33.repl.co/static/banner.jpg" >
+    <div class="container">
+      <h1 class="text-center mt-2 mb-4"> About DB</h1>
+
+      <h2 class="text-center mt-2 mb-2"> About DB</h2>
+      
+      <p class="lead">
+        Debian
+
+        Note that Debian focuses more on stability rather than newest features. Therefore packages will typically contain some older version, compared to the latest release.
+
+        Update the cache using:
+
+        sudo apt-get update
+
+        Install the package using:
+
+        sudo apt-get install sqlitebrowser
+
+      </p>
+      <h2> Jobs DB</h2>
+      <p>
+         {% for job  in jobs %}
+            {% include 'jobitem.html' %}
+         {% endfor %}
+      </p>
+      <div class="text-center">
+        <button type="button" class="btn btn-primary">Contact Us</button>
+        <p class="mt-4 mb-4">Copyright 2023, by Dee</p>
+      </div>
+
+    </div>
+    {% include 'nav.html' %}  
+  </body>
+</html>
