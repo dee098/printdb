@@ -41,3 +41,4 @@ if __name__ == "__main__":
 #https://htmldog.com/guides/css/
 #https://unsplash.com/s/photos
 #https://flask.palletsprojects.com/en/3.0.x/quickstart/
+#poetry install
