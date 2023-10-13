@@ -1,47 +1,31 @@
 <!DOCTYPE html>
 <html>
-  <head>
-      <title>Shake Your Body, Baby</title>
-    <style>
-      h1 {
-        font-size: 40px;
-        font-family: Roboto;
-        font-weight: bold;
-        color: #323232;
-        text-align: center;
-      }
-      h2 {
-        font-size: 32px;
-        font-family: Roboto;
-        font-weight: normal;
-        color: #646464;
-        text-align: center;
-        
-      }
-      .bodytext {
 
-        font-family: Roboto;
-        font-weight: normal;
-        color: #323232;
-      }
-      #banner {
-        width: 100%;
-        height: 360px;
-        object-fit: cover;
-      }
-      #container {
-        max-width: 720px;
-        margin: 0 auto 0 auto        
-      }
-    </style>
-    
-  </head>
+      
+    <head>
+      <title>Shake Your Body, Baby</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Bootstrap demo</title>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+      <style>
+        #banner {
+          height: 360px;
+          width: 100%;
+          object-fit:cover;
+        }
+      </style>
+    </head>
+
+
   <body>
-    <div id=container>
-      <img id=banner src="https://printdb--demon33.repl.co/static/banner.jpg" height="320" alt="HTML Dog">
-      <h2> About DB</h2>
-      <h1> About DB</h1>
-      <p class=botytext>
+    <div class="container">
+      <h1 class="text-center mt-2 mb-4"> About DB</h1>
+      <img cass="img-fluid" id=banner src="https://printdb--demon33.repl.co/static/banner.jpg" >
+      <h2 class="text-center mt-2 mb-2"> About DB</h2>
+      
+      <p class="lead">
         Debian
 
         Note that Debian focuses more on stability rather than newest features. Therefore packages will typically contain some older version, compared to the latest release.
@@ -55,13 +39,15 @@
         sudo apt-get install sqlitebrowser
 
       </p>
-      <h2> About DB</h2>
-      <p class=botytext>
-         Install the package using:
+      <h2> Jobs DB</h2>
+      <p>
+         {% for job  in jobs %}
+            {% include 'jobitem.html' %}
+         {% endfor %}
       </p>
-      <div style="text-align:center;">
-        <button>Contact Us</button>
-        <p>Copyright 2023, by Dee</p>
+      <div class="text-center">
+        <button type="button" class="btn btn-primary">Contact Us</button>
+        <p class="mt-4 mb-4">Copyright 2023, by Dee</p>
       </div>
 
     </div>
