@@ -42,3 +42,5 @@ if __name__ == "__main__":
 #https://unsplash.com/s/photos
 #https://flask.palletsprojects.com/en/3.0.x/quickstart/
 #poetry install
+# https://test-web-txds.onrender.com/ 
+#https://www.youtube.com/watch?v=yBDHkveJUf4

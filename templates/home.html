@@ -11,18 +11,20 @@
 
       <style>
         #banner {
-          height: 360px;
+          height: 260px;
           width: 100%;
           object-fit:cover;
         }
+        
       </style>
     </head>
 
 
   <body>
+    <img cass="img-fluid" id=banner src="https://printdb--demon33.repl.co/static/banner.jpg" >
     <div class="container">
       <h1 class="text-center mt-2 mb-4"> About DB</h1>
-      <img cass="img-fluid" id=banner src="https://printdb--demon33.repl.co/static/banner.jpg" >
+
       <h2 class="text-center mt-2 mb-2"> About DB</h2>
       
       <p class="lead">
@@ -51,8 +53,6 @@
       </div>
 
     </div>
-
-
-
+    {% include 'nav.html' %}  
   </body>
 </html>
