@@ -1,5 +1,6 @@
 from flask import Flask, render_template, jsonify
-from dbmanager import load_jobs_from_db, load_jobs_from_db_json, load_job_from_db
+# from dbmanager import load_jobs_from_db, load_jobs_from_db_json, load_job_from_db
+from dbmanager import *
 import json
 
 app = Flask(__name__)
@@ -12,6 +13,11 @@ def hello_world():
 @app.route("/test")
 def test_world():
   return render_template('test.html')
+  
+@app.route("/equipment")
+def equipment():
+  equipment_list = load_equipment_from_db()
+  return render_template('equipment_table.html', equipment=equipment_list)
 
 @app.route("/api/jobs")
 def list_jobs():

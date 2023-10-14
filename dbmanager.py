@@ -38,3 +38,14 @@ def load_job_from_db(job_id):
 
       #result.fetchall()
 
+def load_equipment_from_db():
+  with engine.connect() as con:
+    # result = con.execute(text("SELECT * FROM equipment_list"))
+    result = con.execute(text("SELECT e1.model, pe1.serial_number, m1.name FROM equipment_list AS pe1 JOIN equipment AS e1 ON pe1.equipment_id = e1.id JOIN manufacturers AS m1 ON e1.manufacturer_id = m1.id"));
+    equipment_list = []
+    for dict_list in result.mappings():
+      equipment_list.append(dict_list)
+    # for row in result:
+    #   jobs.append(row._mapping)
+    return equipment_list
+
