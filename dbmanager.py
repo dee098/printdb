@@ -1,4 +1,5 @@
-from sqlalchemy import  create_engine, text
+# from sqlalchemy import  create_engine, text, select, MetaData
+from sqlalchemy import *
 import os
 
 
@@ -26,3 +27,14 @@ def load_jobs_from_db_json():
     # for row in result:
     #   jobs.append(row._mapping)
     return jobs
+
+def load_job_from_db(job_id):
+  with engine.connect() as con:
+    result = con.execute(text("SELECT * FROM jobs WHERE id = :id"), {"id": job_id})
+    for dict_list in result.mappings():
+      if len(dict_list) == 0:
+        return None
+      return dict(dict_list)
+
+      #result.fetchall()
+
