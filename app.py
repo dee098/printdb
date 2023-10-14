@@ -9,10 +9,15 @@ def hello_world():
   jobs_list = load_jobs_from_db()
   return render_template('home.html', jobs=jobs_list)
 
+@app.route("/test")
+def test_world():
+  return render_template('test.html')
+
 @app.route("/api/jobs")
 def list_jobs():
   jobs_list = load_jobs_from_db_json()
   return jsonify(jobs_list)
+  
   
 @app.route("/job/<id>")
 def show_jobs(id):
