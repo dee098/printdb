@@ -1,22 +1,22 @@
 
 <div class="border-bottom row" style="margin-bottom:16px; padding-bottom:8px">
-
+   
   <div class="col-2">
   <h4 style="color:#808080; margin-bottom:8px;">
-    {{equipment_item['sorter']}} &nbsp {{equipment_item['serial_number']}}
+     {{row_location['serial_number']}}
   </h4>
   </div>
   <div class="col-3">
-    <div>{{equipment_item['name']}} &nbsp {{equipment_item['model']}}</div>
+    <div>{{row_location['name']}} &nbsp {{row_location['model']}}</div>
   </div>
   <div class="col-3">
-    <div>{{equipment_item['company_name']}} &nbsp {{equipment_item['address']}}</div>
+    <div>{{row_location['company_name']}} &nbsp {{row_location['address']}}</div>
   </div>
 
   <div class="col-4 paddung-right:16px">
-  <a href="/repairs/{{equipment_item['id']}}"type="button" class="btn btn-outline-primary">Repairs</a>
-    <a href="/consumables/{{equipment_item['id']}}"type="button" class="btn btn-outline-primary">Сonsumables</a>
-    <a href="/locatoion/{{equipment_item['id']}}"type="button" class="btn btn-outline-primary">locatoion</a>
+  <a href="/locatoion/{{row_location['id']}}"type="button" class="btn btn-outline-primary">Remove</a>
+    <a href="/consumables/{{row_location['id']}}"type="button" class="btn btn-outline-primary">Edit</a>
+    <a href="/locatoion/{{row_location['id']}}"type="button" class="btn btn-outline-primary">Counter</a>
   </div>
 
 </div>

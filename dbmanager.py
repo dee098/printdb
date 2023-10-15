@@ -62,21 +62,20 @@ def load_equipment_from_db():
 def load_location_from_db():
   with engine.connect() as con:
 
-    query = 'SELECT eqlc1.sorter_id as sorter, e1.model, eqli1.serial_number, '\
-    'ma1.name, eqlc1.locations_id, lo1.address, paco1.company_name '\
-    'FROM equipment_locations AS eqlc1 '\
-    'JOIN equipment_list AS eqli1 ON eqli1.equipment_id = eqlc1.equipment_id '\
-    'JOIN equipment AS e1 ON eq1.equipment_id = e1.id '\
-    'JOIN manufacturers AS ma1 ON eq1.manufacturer_id = ma1.id '\
-
-    'JOIN locations AS lo1 ON lo1.id = eqlc1.locations_id '\
+    query = 'select eqli1.serial_number, eqmo1.model, ma1.name, lo1.address, '\
+    'paco1.company_name '\
+    'FROM equipment_locations as eqlo1 '\
+    'JOIN equipment_list AS eqli1 ON eqli1.id = eqlo1.equipment_id '\
+    'JOIN equipment_model AS eqmo1 ON eqmo1.id = eqli1.model_id '\
+    'JOIN manufacturers AS ma1 ON ma1.id = eqmo1.manufacturer_id '\
+    'JOIN locations as lo1 ON lo1.id = eqlo1.locations_id '\
     'JOIN partner_company AS paco1 ON paco1.id = lo1.company_id '\
-    'ORDER BY sorter DESC LIMIT 20 OFFSET 0 '
+    'ORDER BY address DESC LIMIT 20 OFFSET 0 '
 
     result = con.execute(text(query));
-    equipment_list = []
+    equipment_locations = []
     for dict_list in result.mappings():
-      equipment_list.append(dict_list)
+      equipment_locations.append(dict_list)
     # for row in result:
     #   jobs.append(row._mapping)
-    return equipment_list
+    return equipment_locations
