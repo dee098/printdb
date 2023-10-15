@@ -6,17 +6,17 @@
      {{row_location['serial_number']}}
   </h4>
   </div>
-  <div class="col-3">
-    <div>{{row_location['name']}} &nbsp {{row_location['model']}}</div>
-  </div>
+
   <div class="col-3">
     <div>{{row_location['company_name']}} &nbsp {{row_location['address']}}</div>
   </div>
-
+  <div class="col-3">
+    <div>{{row_location['contact_name']}} &nbsp {{row_location['mobile']}}</div>
+  </div>
   <div class="col-4 paddung-right:16px">
-  <a href="/locatoion/remove/{{row_location['equipment_id']}}"type="button" class="btn btn-outline-primary">Remove</a>
+  <a href="/locatoion/remove/{{row_location['equipment_id']}}"type="button" class="btn btn-outline-primary">Remove all equipment</a>
     <a href="/locatoion/edit/{{row_location['locations_id']}}"type="button" class="btn btn-outline-primary">Edit</a>
-    <a href="/locatoion/counter/{{row_location['equipment_id']}}"type="button" class="btn btn-outline-primary">Counter</a>
+
   </div>
 
 </div>

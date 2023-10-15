@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Partners</title>
+      {% include '__bootstrap.html' %} 
+    </head>
+  <body>
+    {% include '__banner.html' %} 
+    <div class="container">
+      <h1 class="text-center mt-2 mb-4"> Partners :</h1>
+      <p>
+         {% for row_location  in location %}
+            {% include '_row_partners_short.html' %}
+         {% endfor %}
+      </p>
+
+    </div>
+    {% include '__nav.html' %}  
+  </body>
+</html>

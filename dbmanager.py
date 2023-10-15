@@ -62,13 +62,13 @@ def load_equipment_from_db():
 def load_location_from_db():
   with engine.connect() as con:
 
-    query = 'select eqli1.serial_number, eqmo1.model, ma1.name, lo1.address, '\
-    'paco1.company_name '\
+    query = 'SELECT eqli1.serial_number, eqmo1.model, ma1.name, lo1.address, '\
+    'paco1.company_name,  eqlo1.locations_id, eqlo1.equipment_id '\
     'FROM equipment_locations as eqlo1 '\
     'JOIN equipment_list AS eqli1 ON eqli1.id = eqlo1.equipment_id '\
     'JOIN equipment_model AS eqmo1 ON eqmo1.id = eqli1.model_id '\
     'JOIN manufacturers AS ma1 ON ma1.id = eqmo1.manufacturer_id '\
-    'JOIN locations as lo1 ON lo1.id = eqlo1.locations_id '\
+    'JOIN locations AS lo1 ON lo1.id = eqlo1.locations_id '\
     'JOIN partner_company AS paco1 ON paco1.id = lo1.company_id '\
     'ORDER BY address DESC LIMIT 20 OFFSET 0 '
 
@@ -79,3 +79,19 @@ def load_location_from_db():
     # for row in result:
     #   jobs.append(row._mapping)
     return equipment_locations
+
+
+def load_partners_from_db():
+  with engine.connect() as con:
+  
+    query = 'SELECT * FROM locations AS lo1 '\
+      'JOIN partner_company AS paco1 ON paco1.id = lo1.company_id '\
+      'JOIN partners_employee AS paem1 ON paem1.employee_id = lo1.contact_employee_id '\
+      'ORDER BY company_name DESC, address '
+    result = con.execute(text(query));
+    locations = []
+    for dict_list in result.mappings():
+      locations.append(dict_list)
+    # for row in result:
+    #   jobs.append(row._mapping)
+    return locations
