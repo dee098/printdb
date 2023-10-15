@@ -17,7 +17,12 @@ def test_world():
 @app.route("/equipment")
 def equipment():
   equipment_list = load_equipment_from_db()
-  return render_template('equipment_table.html', equipment=equipment_list)
+  return render_template('table_equipment.html', equipment=equipment_list)
+
+@app.route("/location")
+def location():
+  location_list = load_location_from_db()
+  return render_template('table_location.html', location=location_list)
 
 @app.route("/api/jobs")
 def list_jobs():
@@ -33,6 +38,13 @@ def show_jobs(id):
     return jsonify({"error": "Job not found"}), 404
   return render_template('jobpage.html', job=job)
 
+@app.route("/repairs/<id>")
+def show_repairs_by_id(id):
+  repairs = load_repairs_from_db(id)
+  # return jsonify(job)
+  if not repairs:
+    return jsonify({"error": "Job not found"}), 404
+  return render_template('repairs.html', repairs=repairs)
 
 if __name__ == "__main__":
   print("i am here")

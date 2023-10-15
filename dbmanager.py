@@ -41,15 +41,15 @@ def load_job_from_db(job_id):
 def load_equipment_from_db():
   with engine.connect() as con:
     # result = con.execute(text("SELECT * FROM equipment_list"))
-    query = 'SELECT eloc1.sorter_id as sorter, e1.model, el1.serial_number, m1.name, eloc1.locations_id, '\
-    'lo1.address, pc1.company_name '\
-    'FROM equipment_list AS el1 '\
-    'JOIN equipment AS e1 ON el1.equipment_id = e1.id '\
-    'JOIN manufacturers AS m1 ON e1.manufacturer_id = m1.id '\
-    'JOIN equipment_locations AS eloc1 ON el1.equipment_id = eloc1.equipment_id '\
-    'JOIN locations AS lo1 ON lo1.id = eloc1.locations_id '\
-    'JOIN partner_company AS pc1 ON pc1.id = lo1.company_id '\
-    'ORDER BY sorter DESC LIMIT 20 OFFSET 0 '
+    query = 'SELECT eqli1.id, eqlo1.sorter_id as sorter, eqmo1.model, eqli1.serial_number, '\
+    'ma1.name, eqlo1.locations_id, lo1.address, paco1.company_name '\
+    'FROM equipment_list AS eqli1 '\
+    'JOIN equipment_model AS eqmo1 ON eqli1.model_id = eqmo1.id '\
+    'JOIN manufacturers AS ma1 ON eqmo1.manufacturer_id = ma1.id '\
+    'JOIN equipment_locations AS eqlo1 ON eqli1.model_id = eqlo1.equipment_id '\
+    'JOIN locations AS lo1 ON lo1.id = eqlo1.locations_id '\
+    'JOIN partner_company AS paco1 ON paco1.id = lo1.company_id '\
+    'ORDER BY serial_number DESC LIMIT 20 OFFSET 0 '
     
     result = con.execute(text(query));
     equipment_list = []
@@ -59,3 +59,24 @@ def load_equipment_from_db():
     #   jobs.append(row._mapping)
     return equipment_list
 
+def load_location_from_db():
+  with engine.connect() as con:
+
+    query = 'SELECT eqlc1.sorter_id as sorter, e1.model, eqli1.serial_number, '\
+    'ma1.name, eqlc1.locations_id, lo1.address, paco1.company_name '\
+    'FROM equipment_locations AS eqlc1 '\
+    'JOIN equipment_list AS eqli1 ON eqli1.equipment_id = eqlc1.equipment_id '\
+    'JOIN equipment AS e1 ON eq1.equipment_id = e1.id '\
+    'JOIN manufacturers AS ma1 ON eq1.manufacturer_id = ma1.id '\
+
+    'JOIN locations AS lo1 ON lo1.id = eqlc1.locations_id '\
+    'JOIN partner_company AS paco1 ON paco1.id = lo1.company_id '\
+    'ORDER BY sorter DESC LIMIT 20 OFFSET 0 '
+
+    result = con.execute(text(query));
+    equipment_list = []
+    for dict_list in result.mappings():
+      equipment_list.append(dict_list)
+    # for row in result:
+    #   jobs.append(row._mapping)
+    return equipment_list
