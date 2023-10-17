@@ -1,0 +1,1016 @@
+[
+  {
+      "description": "angular bootstrap list groups are a flexible component which displays not only simple list of elements but complex custom content.",
+      "title": "angular list group - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/list-group/",
+      "name": "List Group"
+  },
+  {
+      "description": "angular bootstrap tags are components which separate content placed in the same wrapper, but in the separate pane.",
+      "title": "angular tags, badges, labels - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/badges/",
+      "name": "Tags"
+  },
+  {
+      "description": "angular bootstrap sticky content (affix) is a plugin which allows elements to be locked in the particular area of the page. often used in navigation menus.",
+      "title": "angular stickycontent - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/advanced/sticky/",
+      "name": " StickyContent"
+  },
+  {
+      "description": "angular bootstrap select is a component which displays a collapsable list of multiple values which can be used in forms, menus or surveys.",
+      "title": "angular select - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/forms/select/",
+      "name": "Select"
+  },
+  {
+      "description": "angular bootstrap popover is a component which displays a box with a content after a click on an element - similar to the tooltip but can contain more content.",
+      "title": "angular popovers - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/advanced/popovers/",
+      "name": "Popover"
+  },
+  {
+      "description": "angular bootstrap smooth scroll is an animated movement from a trigger - button, link or any other clickable element - to another place of the same page.",
+      "title": "angular scrollbar & smoothscroll - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/advanced/scroll/",
+      "name": " Smoothscroll"
+  },
+  {
+      "description": "angular bootstrap parallax is a design effect visible while scrolling down - background image is moving with a different speed than the foreground content.",
+      "title": "angular parallax - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/css/parallax/",
+      "name": " Parallax"
+  },
+  {
+      "description": "angular bootstrap shadow is an effect used in web elements which provides important visual cues about objects' depth and directional movement.",
+      "title": "angular shadows - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/css/shadows/",
+      "name": " Shadows"
+  },
+  {
+      "description": "angular bootstrap tables are component with basic tables features. they allow you to organize multiple data in an elegant way.",
+      "title": "angular tables - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/tables/basic/",
+      "name": "Tables"
+  },
+  {
+      "description": "angular bootstrap forms are input-based components which are designed to collect users data. used as login, subscribe or contact form, all can be easily customized.",
+      "title": "angular forms - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/forms/basic/",
+      "name": "Forms"
+  },
+  {
+      "description": "angular bootstrap dropdown is a toggleable menu embedding additional links or content. it allows you to construct advanced navigation and link categorization",
+      "title": "angular dropdown - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/components/dropdowns/",
+      "name": "Dropdown"
+  },
+  {
+      "description": "angular bootstrap footer is an additional navigation for the website. it can hold links, buttons, company info, copyrights, forms and many other elements.",
+      "title": "angular footer - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/navigation/footer/",
+      "name": "Footer"
+  },
+  {
+      "description": "angular bootstrap panels are bordered boxes where you can place texts, lists, tables and other content. panels are similar to cards, but they don't include media.",
+      "title": "angular panels - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/panels/",
+      "name": "Panels"
+  },
+  {
+      "description": "angular bootstrap progress bar is a component which displays a progress of a process in which user is involved. their color, shape, and animation can be customized.",
+      "title": "angular progress bar - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/progress-bar/",
+      "name": "Progress Bar"
+  },
+  {
+      "description": "angular bootstrap input is a special field which is used in order to receive data from the user. used mostly in a variety of web-based forms.",
+      "title": "angular inputs - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/inputs/",
+      "name": "Inputs"
+  },
+  {
+      "description": "angular bootstrap carousel is responsive and interactive slideshow which is created for presenting content, especially images and videos.",
+      "title": "angular carousel - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/advanced/carousel/",
+      "name": "Carousel"
+  },
+  {
+      "description": "angular bootstrap pagination is a component used when content is divided into separate pages to display the page numbers and enable navigation between them.",
+      "title": "angular pagination - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/pagination/",
+      "name": "Pagination"
+  },
+  {
+      "description": "angular bootstrap collapse is a component which toggles content. useful for grouping great amount of texts and/or graphics into expanding and collapsing items.",
+      "title": "angular collapse - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/advanced/collapse/",
+      "name": "Collapse"
+  },
+  {
+      "description": "angular bootstrap navbar is a simple wrapper for positioning branding, navigation, and other elements into a concise navigation header.",
+      "title": "angular navbar - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/navigation/navbar/",
+      "name": "Navbar"
+  },
+  {
+      "description": "angular bootstrap time picker is a component which allow users to choose a time from the form.",
+      "title": "angular time picker - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/time-picker/",
+      "name": "Timepicker"
+  },
+  {
+      "description": "angular bootstrap flexbox is a utility for managing position of the items in container and distribute space between them in a more efficient way.",
+      "title": "angular flexbox - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/utilities/flexbox/",
+      "name": " Flexbox"
+  },
+  {
+      "description": "documentation and examples for bootstrap’s media object to construct highly repetitive components like blog comments, tweets, and the like.",
+      "title": "angular media object - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/layout/media-object/",
+      "name": " Media"
+  },
+  {
+      "description": "angular bootstrap colors is a sensational palette of 300 delightful colors, which will aid you in creating inviting, consistent design.",
+      "title": "angular colors - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/css/colors/",
+      "name": " Colors"
+  },
+  {
+      "description": "angular bootstrap hover effect appears when user positions computer cursor over an element without activating it. hover effects make a website more interactive.",
+      "title": "angular hover effects - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/css/hover-effects/",
+      "name": " Hover effects"
+  },
+  {
+      "description": "angular bootstrap icon list is a number of 600 scalable vector icons called font awesome which covers multiple topics and use cases.",
+      "title": "angular icon list - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/content/icons-list/",
+      "name": "Icons List"
+  },
+  {
+      "description": "angular bootstrap masks alter the visibility of an element by either partially or fully hiding it. masks are used to make content more visible in the picture.",
+      "title": "angular masks - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/css/masks/",
+      "name": " Masks"
+  },
+  {
+      "description": "documentation and examples for bootstrap typography, including global settings, headings, body text, lists, and more.",
+      "title": "angular typography - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/content/typography/",
+      "name": " Typography"
+  },
+  {
+      "description": "angular 5min quickstart is set of courses that show how to install different versions of material design for bootstrap in angular projects.",
+      "title": "angular - 5min quickstart",
+      "link": "/docs/b4/angular/getting-started/installation/",
+      "name": "  5min quickstart"
+  },
+  {
+      "description": "learn how easy it is to develop your first application with a free angular bootstrap for material design ui kit.",
+      "title": "angular bootstrap with material design - getting started",
+      "link": "/docs/b4/angular/getting-started/installation/",
+      "name": "Bootstrap Getting Started"
+  },
+  {
+      "description": "angular material design for bootstrap provides a detailed list of changes in each release. read it carefully to do not miss any important update.",
+      "title": "mdb angular changelog - detailed list of changes in the newest release",
+      "link": "/docs/b4/angular/changelog/",
+      "name": "ChangeLog"
+  },
+  {
+      "description": "angular bootstrap figures are commonly used elements for displaying images with the caption. a caption can be left-aligned or right-align.",
+      "title": "angular figures - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/content/figures/",
+      "name": " Bootstrap figures"
+  },
+  {
+      "description": "angular bootstrap buttons are components which are triggering a desirable user interaction. easy to customize in terms of size, shape, and color.",
+      "title": "angular buttons - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/components/buttons/",
+      "name": "Buttons"
+  },
+  {
+      "description": "angular bootstrap cards are components which display content build of different elements with characteristic shadows, depth and hover effects.",
+      "title": "angular card - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/components/cards/",
+      "name": "Cards"
+  },
+  {
+      "description": "angular bootstrap social buttons are components which allows you to build layouts with social features.",
+      "title": "angular bootstrap social button - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/buttons-social/",
+      "name": " Social Buttons"
+  },
+  {
+      "description": "angular bootstrap tabs are components which separate content placed in the same wrapper, but in the separate pane. only one pane can be displayed at the time.",
+      "title": "angular tabs - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/tabs/",
+      "name": "Tabs & Pills"
+  },
+  {
+      "description": "angular bootstrap blog components is a set of components which are dedicated to building a blog or any other content-oriented website.",
+      "title": "angular blog - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/blog-components/",
+      "name": " Blog"
+  },
+  {
+      "description": "angular bootstrap charts are graphical representations of data. charts come in different sizes and shapes: bar, line, pie, radar, polar and more.",
+      "title": "angular charts - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/advanced/charts/",
+      "name": "Charts"
+  },
+  {
+      "description": "angular bootstrap lightbox is a group of images combined in one responsive gallery. elements are grouped in thumbnail grid, which can be displayed as a slideshow.",
+      "title": "angular lightbox - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/advanced/lightbox/",
+      "name": "Lightbox"
+  },
+  {
+      "description": "angular bootstrap tooltips are little clouds with a brief text message, triggered by clicking on a specific element or hovering over it.",
+      "title": "angular tooltips - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/advanced/tooltips/",
+      "name": "Tooltips"
+  },
+  {
+      "description": "angular bootstrap modal is a dialog box/popup window which can be used for lightboxes, user notifications, ui enhancements, e-commerce components and many other cases.",
+      "title": "angular modals - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/modals/basic/",
+      "name": "Modals"
+  },
+  {
+      "description": "angular bootstrap date picker is a component which allow users to choose a date from the calendar.",
+      "title": "angular date picker - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/date-picker/",
+      "name": "DatePicker"
+  },
+  {
+      "description": "angular bootstrap waves effect is an impression of circular overlay movement, triggered by clicking the object, flowing from the center of the click.",
+      "title": "angular waves effect - bootstrap 4 & material design. examples, tutorial",
+      "link": "/docs/b4/angular/directives/waves-effect/",
+      "name": " Waves effect"
+  },
+  {
+      "description": "angular bootstrap animations are illusions of motions for web elements. +70 animations generated by css only, work properly on every browser.",
+      "title": "angular animations - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/css/animations/",
+      "name": "Animations"
+  },
+  {
+      "description": "angular bootstrap icons usage is a quick tutorial which describes the proper way of using font awesome icons in bootstrap framework.",
+      "title": "angular icons - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/content/icons-usage/",
+      "name": " Icons"
+  },
+  {
+      "description": "angular bootstrap alerts are feedback messages which are displayed after specific actions preceded by the user. length of the text is not limited.",
+      "title": "angular alerts - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/alerts/",
+      "name": "Alerts"
+  },
+  {
+      "description": "angular bootstrap sidenav is a vertical navigation component which allow to navigate swiftly through small applications and vast portals.",
+      "title": "angular sidenav - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/navigation/sidenav/",
+      "name": "Sidebar / SideNav"
+  },
+  {
+      "description": "angular bootstrap skins are basic color schemes which can be applied for the website providing ready to use full-page web design.",
+      "title": "angular bootstrap skins - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/css/skins/",
+      "name": " Skins"
+  },
+  {
+      "description": "angular bootstrap components shows a small part of components available in mdb. learn about buttons, cards, dropdowns, tabs, panels and many more.",
+      "title": "angular components - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/components/demo/",
+      "name": "Components"
+  },
+  {
+      "description": "angular bootstrap css is visual guide to css classes that can be used to add animations, colors, gradients, masks, shadows, skins and many more.",
+      "title": "angular css - bootstrap 4 & material design. example & tutorial.",
+      "link": "/docs/b4/angular/css/demo/",
+      "name": "CSS"
+  },
+  {
+      "description": "in order to present what people say about your project use our amazing testimonials.",
+      "title": "angular testimonials section - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/sections/testimonials/",
+      "name": " Testimonials"
+  },
+  {
+      "description": "angular bootstrap magazine sections are a combination of standard bootstrap components that together create a consistent design perfect for magazine pages.",
+      "title": "angular magazine section - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/sections/magazine/",
+      "name": " Magazine"
+  },
+  {
+      "description": "angular bootstrap features sections are a combination of standard bootstrap components that together create a consistent design perfect for features pages.",
+      "title": "angular features section - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/sections/features/",
+      "name": " Features"
+  },
+  {
+      "description": "angular bootstrap team sections are a combination of standard bootstrap components that together create a consistent design perfect for team pages.",
+      "title": "angular team sections - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/sections/team/",
+      "name": " Team"
+  },
+  {
+      "description": "angular bootstrap social sections are a combination of standard bootstrap components that together create a consistent design perfect for social pages.",
+      "title": "angular social section - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/sections/social/",
+      "name": " Social"
+  },
+  {
+      "description": "angular bootstrap contact sections are a combination of standard bootstrap components that together create a consistent design perfect for contact pages.",
+      "title": "angular contact section - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/sections/contact/",
+      "name": " Contact"
+  },
+  {
+      "description": "angular bootstrap blog sections are a combination of standard bootstrap components that together create a consistent design perfect for blog pages.",
+      "title": "angular blog section - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/sections/blog/",
+      "name": " Blog"
+  },
+  {
+      "description": "angular bootstrap intros sections are a combination of standard bootstrap components that together create a consistent design perfect for intros pages.",
+      "title": "angular intros - bootstrap 4 & material design. examples & tutorials.",
+      "link": "/docs/b4/angular/sections/intros/",
+      "name": " Intros"
+  },
+  {
+      "description": "angular bootstrap e-commerce sections are a combination of standard bootstrap components that together create a consistent design perfect for e-commerce pages.",
+      "title": "angular e-commerce section - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/sections/e-commerce/",
+      "name": " E-commerce"
+  },
+  {
+      "description": "angular bootstrap projects sections are a combination of standard bootstrap components that together create a consistent design perfect for projects pages",
+      "title": "angular projects - bootstrap 4 & material design. examples & tutorials.",
+      "link": "/docs/b4/angular/sections/projects/",
+      "name": " Projects"
+  },
+  {
+      "description": "angular bootstrap stepper is a component that displays content as a process with defined by user milestones. following steps are separated and connected by buttons.",
+      "title": "angular stepper - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/components/stepper/",
+      "name": " Steppers"
+  },
+  {
+      "description": "angular bootstrap flipping card is a card animation that gives an element effect of flipping to the other side upon the interaction.",
+      "title": "angular flipping cards - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/flipping-cards/",
+      "name": " Flipping cards"
+  },
+  {
+      "description": "angular bootstrap navigation is set of useful, ready-to-use navigation layouts with various predefined navigation types.",
+      "title": "angular navigation - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/navigation/compositions/",
+      "name": " Navigation"
+  },
+  {
+      "description": "angular bootstrap input group is a field used for collecting data entered by users. usually containing buttons, text areas or other inputs.",
+      "title": "angular input group - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/input-group/",
+      "name": " Input groups"
+  },
+  {
+      "description": "angular bootstrap google maps are the most advanced online maps in the world. their use is practically infinite.",
+      "title": "angular maps - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/advanced/google-maps/",
+      "name": "Maps"
+  },
+  {
+      "description": "angular bootstrap mobile gestures are touch-based interactions with mobile devices. various of different fingers movements indicate particular components responses.",
+      "title": "angular mobile - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/advanced/mobile/",
+      "name": " Mobile"
+  },
+  {
+      "description": "components and options for laying out your angular project, including wrapping containers, a powerful grid system, a flexible media object, and responsive utility classes.",
+      "title": "angular layout - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/layout/overview/",
+      "name": "Bootstrap layout"
+  },
+  {
+      "description": "use the powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, sass variables and mixins, and dozens of predefined classes.",
+      "title": "angular grid system - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/layout/grid-usage/",
+      "name": " Bootstrap grid"
+  },
+  {
+      "description": "basic angular grid layouts to get you familiar with building within the bootstrap grid system.",
+      "title": "angular grid examples - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/layout/grid-examples/",
+      "name": " Bootstrap grid examples"
+  },
+  {
+      "description": "for faster mobile-friendly and responsive development, bootstrap includes dozens of utility classes for showing, hiding, aligning, and spacing content.",
+      "title": "angular utilities for layout - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/layout/utilities/",
+      "name": " Utilities for layout"
+  },
+  {
+      "description": "documentation and examples for displaying inline and multiline blocks of code with bootstrap.",
+      "title": "angular code - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/content/code/",
+      "name": " Bootstrap code"
+  },
+  {
+      "description": "documentation and examples for opting images into responsive behavior (so they never become larger than their parent elements) and add lightweight styles to them—all via classes..",
+      "title": "angular images - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/content/images/",
+      "name": "Images"
+  },
+  {
+      "description": "use border utilities to quickly style the border and border-radius of an element. great for images, buttons, or any other element.",
+      "title": "angular borders - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/utilities/borders/",
+      "name": " Bootstrap borders"
+  },
+  {
+      "description": "quickly and easily clear floated content by adding a clearfix utility .clearfix to the parent element. can also be used as a mixin.",
+      "title": "angular clearfix - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/utilities/clearfix/",
+      "name": " Bootstrap clearfix"
+  },
+  {
+      "description": "use a generic close icon for dismissing content like modals and alerts. be sure to include text for screen readers, as we’ve done with aria-label.",
+      "title": "angular close icon - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/utilities/close-icon/",
+      "name": " Bootstrap close icon"
+  },
+  {
+      "description": "quickly and responsively toggle the display value of components and more with our display utilities. includes support for some of the more common values, as well as some extras for controlling display when printing.",
+      "title": "angular display property - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/display/",
+      "name": " Bootstrap display property"
+  },
+  {
+      "description": "angular bootstrap embeds is a utility which helps you insert video or slideshow in the page keeping width of the parent and scales on any device.",
+      "title": "angular embeds - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/embeds/",
+      "name": " Bootstrap embeds"
+  },
+  {
+      "description": "angular bootstrap toggle floats on any element, across any breakpoint, using our responsive float utilities.",
+      "title": "angular float - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/utilities/float/",
+      "name": " Bootstrap Float"
+  },
+  {
+      "description": "swap text for background images with the image replacement class. utilize the .text-hide class or mixin to help replace an element’s text content with a background image.",
+      "title": "angular image replacement - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/image-replacement/",
+      "name": " Bootstrap image replacement"
+  },
+  {
+      "description": "angular bootstrap position utilities - use these shorthand utilities for quickly configuring the position of an element.",
+      "title": "angular position - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/position/",
+      "name": " Bootstrap position"
+  },
+  {
+      "description": "hide an element to all devices except screen readers with .sr-only. combine .sr-only with .sr-only-focusable to show the element again when it’s focused (e.g. by a keyboard-only user). can also be used as mixins.",
+      "title": "angular screenreaders - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/utilities/screenreaders/",
+      "name": " Bootstrap screenreaders"
+  },
+  {
+      "description": "angular bootstrap sizing easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+      "title": "angular sizing - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/sizing/",
+      "name": " Bootstrap sizing"
+  },
+  {
+      "description": "bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element’s appearance.",
+      "title": "angular spacing - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/utilities/spacing/",
+      "name": " Bootstrap spacing"
+  },
+  {
+      "description": "documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+      "title": "angular text utilities - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/text/",
+      "name": " Bootstrap text utilities"
+  },
+  {
+      "description": "easily change the vertical-alignment of inline, inline-block, inline-table, and table cell elements.",
+      "title": "angular vertical alignment - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/utilities/vertical-align/",
+      "name": " Bootstrap vertical align"
+  },
+  {
+      "description": "control the visibility, without modifying the display, of elements with visibility utilities. these do not modify the display value at all and are helpful for hiding content from most users, but still keeping them for screen readers.",
+      "title": "angular visibility - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/visibility/",
+      "name": " Visibility"
+  },
+  {
+      "description": "learn the most powerful javascript framework by creating your own app. we'll guide you step by step from basic to advanced concepts of angular technology.",
+      "title": "angular 7 tutorial - create your own angular bootstrap app, step by step",
+      "link": "/education/angular/",
+      "name": " creating an Angular Bootstrap app, step by step"
+  },
+  {
+      "description": "angular bootstrap validation is set of validators which can be used on various form inputs to provide valuable and actionable feedback to users.",
+      "title": "angular validation - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/validation/",
+      "name": "Input validation"
+  },
+  {
+      "description": "free, responsive admin dashboard template containing different styles of dashboards, data presentation, and numerous insightful components.",
+      "title": "angular admin dashboard template - angular 8 & material design",
+      "link": "/freebies/angular/admin-dashboard/",
+      "name": " Angular 8 &amp; Material Design"
+  },
+  {
+      "description": "angular bootstrap autocomplete is a component which predicts the words basing on the first few letters given by a user, while one is typing it.",
+      "title": "angular autocomplete - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/autocomplete/",
+      "name": "Autocomplete"
+  },
+  {
+      "description": "mdbinput directive gives ability to lift up input label, validate input via it's type and adds focus to checkboxes or radio elements.",
+      "title": "mdbinput - examples & tutorial. basic & advanced usage.",
+      "link": "/docs/b4/angular/directives/input/",
+      "name": "Mdb-Input-Directive"
+  },
+  {
+      "description": "angular universal is tool which allows server to pre-render angular application while user hits your website for first time.",
+      "title": "angular universal - server-side rendering for angular.",
+      "link": "/docs/b4/angular/getting-started/angular-universal/",
+      "name": "Universal"
+  },
+  {
+      "description": "set of instructions on updating mdb angular free and mdb angular pro versions.",
+      "title": "mdb angular update instructions",
+      "link": "/docs/b4/angular/getting-started/update/",
+      "name": "Update instructions"
+  },
+  {
+      "description": "list of all mdb angular modules. you can choose to import only the modules you actually need, instead of importing entire mdb angular library.",
+      "title": "",
+      "link": "/docs/b4/angular/getting-started/modules/",
+      "name": "Modules list"
+  },
+  {
+      "description": "set of instructions on migrating to new mdb angular free or mdb angular pro version.",
+      "title": "mdb angular migration instructions",
+      "link": "/docs/b4/angular/getting-started/migration/",
+      "name": "Migration Instructions"
+  },
+  {
+      "description": "angular bootstrap variables are the storage locations paired with the associated symbolic names, which contain some known quantity of information referred to as the values.",
+      "title": "angular variables - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/css/variables/",
+      "name": "Variables"
+  },
+  {
+      "description": "angular bootstrap checkbox is a component used for allowing a user to make a multiple choice. broadly used in the forms and surveys.",
+      "title": "angular checkbox - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/checkbox/",
+      "name": "Checkbox"
+  },
+  {
+      "description": "angular bootstrap multiselect is a component that allows users to tick multiple options from a collapsible list of values. can be used in forms, menus and surveys.",
+      "title": "angular multiselect - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/multiselect/",
+      "name": "Multiselect"
+  },
+  {
+      "description": "angular radio button is a component used for allowing a user to make a single choice among many options, while checkboxes are for selecting multiple options.",
+      "title": "angular bootstrap radio button -bootstrap 4 & material design.",
+      "link": "/docs/b4/angular/forms/radio-button/",
+      "name": "Radio"
+  },
+  {
+      "description": "angular bootstrap search is a component which enables a process of finding words, sentences, and numbers in the collection of documents, web pages or other sources.",
+      "title": "angular search - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/search/",
+      "name": "Search"
+  },
+  {
+      "description": "angular bootstrap slider is an interactive component that lets the user swiftly slide through possible values spread on the desired range.",
+      "title": "angular slider - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/slider/",
+      "name": "Slider"
+  },
+  {
+      "description": "angular bootstrap switch is component used for activating one of two predefined options. commonly used as an on/off button in a number of various forms.",
+      "title": "angular switch - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/switch/",
+      "name": "Switch"
+  },
+  {
+      "description": "angular bootstrap textarea is an input dedicated for a large volume of text. it may be used in a variety of components like forms, comment sections and forums.",
+      "title": "angular textarea - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/textarea/",
+      "name": "Textarea"
+  },
+  {
+      "description": "angular bootstrap editable table are component with which you can add and remove rows and change text and information within cells.",
+      "title": "angular editable table - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/tables/editable/",
+      "name": "Editable table"
+  },
+  {
+      "description": "angular bootstrap table pagination is a component with simple navigation which lets you split a huge amount of content within the tables into smaller parts.",
+      "title": "angular tables pagination - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/tables/pagination/",
+      "name": "Table pagination"
+  },
+  {
+      "description": "angular bootstrap table search is a component which is super fast and easy to use searching functionality dedicated to our tables.",
+      "title": "angular tables search - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/tables/search/",
+      "name": "Table search"
+  },
+  {
+      "description": "angular bootstrap sort table is component with sorting functionality which lets you sort the data of the tables according to any specific columns.",
+      "title": "angular tables sort - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/tables/sort/",
+      "name": "Table sort"
+  },
+  {
+      "description": "angular bootstrap datatables are component which mixes tables with advanced options like searching, sorting, pagination and generating csv file.",
+      "title": "angular datatables - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/tables/datatables/",
+      "name": "Advanced table"
+  },
+  {
+      "description": "set of tutorials that show how to correctly import specific mdb angular modules both in pro and free versions.",
+      "title": "importing modules - examples & tutorial",
+      "link": "/docs/b4/angular/getting-started/importing-modules/",
+      "name": "Importing modules"
+  },
+  {
+      "description": "angular bootstrap modal examples & templates is a set of advanced modal examples which you can use in your project.",
+      "title": "angular advanced modals - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/modals/additional/",
+      "name": "Advanced examples"
+  },
+  {
+      "description": "angular bootstrap modal events is a set of events that are emitted by the component when it is opened or closed.",
+      "title": "angular material design - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/modals/events/",
+      "name": "Modal events"
+  },
+  {
+      "description": "angular bootstrap modal forms are displayed-on-action pop-up forms that used for gathering data from a website visitors and register or log users.",
+      "title": "angular modal forms - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/modals/forms/",
+      "name": "Modal Forms"
+  },
+  {
+      "description": "angular bootstrap modal styles is a set of predefined styles which you can use to add some emotional weight to your information.",
+      "title": "angular modal styles - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/modals/customization/",
+      "name": "Modal styles"
+  },
+  {
+      "description": "angular bootstrap hamburger menu is a menu which allow to activate part of information or navigation that is hidden by default.",
+      "title": "angular hamburger menu - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/navigation/hamburger-menu/",
+      "name": "Hamburger Menu"
+  },
+  {
+      "description": "angular bootstrap mega menu is a navigation component which enhance standard navbar features. extended dropdown contains images and categorized links.",
+      "title": "angular mega menu - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/navigation/mega-menu/",
+      "name": "Mega Menu"
+  },
+  {
+      "description": "angular bootstrap navs is a class which can transform a list of items into navigation components or tabs/pills and helps to build advanced components.",
+      "title": "angular navs - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/navigation/navs/",
+      "name": "Navs"
+  },
+  {
+      "description": "angular bootstrap responsive tables are component which allows tables to be scrolled horizontally with ease.",
+      "title": "angular tables responsive - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/tables/responsive/",
+      "name": "Table responsive"
+  },
+  {
+      "description": "angular bootstrap table styles are components with examples of the tables with additional elements like buttons, checkboxes, icons, panels & more.",
+      "title": "angular tables styles - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/tables/additional/",
+      "name": "Table styles"
+  },
+  {
+      "description": "angular bootstrap modal generator - a simple and fast way to create a bootstrap 4 modals with custom styles, sizes, animations and positions.",
+      "title": "angular bootstrap modal generator - free online editor for bootstrap modal",
+      "link": "/docs/b4/angular/modals/generator/",
+      "name": "Modal Generator"
+  },
+  {
+      "description": "angular bootstrap accordion is a component which organizes content within collapsable items. accordion allows showing only one collapsed item at the same time.",
+      "title": "angular bootstrap accordion - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/advanced/accordion/",
+      "name": "Accordion"
+  },
+  {
+      "description": "angular bootstrap file input is a field which user can use to upload one or more files (photos, documents or any other file type) from the local storage.",
+      "title": "angular bootstrap file input - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/forms/file-input/",
+      "name": "File input"
+  },
+  {
+      "description": "angular bootstrap breadcrumbs are navigation elements which indicate a current location on the website. breadcrumbs show a hierarchy of the current location as well",
+      "title": "angular breadcrumbs - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/navigation/breadcrumb/",
+      "name": "Breadcrumbs"
+  },
+  {
+      "description": "angular bootstrap chat is a component dedicated for text-based communication between two or more users in real time. build with conversations list sidebar.",
+      "title": "angular chat - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/chat/",
+      "name": "Chat"
+  },
+  {
+      "description": "angular bootstrap e-commerce components is a set of components which are necessary to build online stores and any other e-commerce businesses.",
+      "title": "angular e-commerce components - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/e-commerce-components/",
+      "name": "E-commerce"
+  },
+  {
+      "description": "angular bootstrap edge header is a component unique for material design, that can be often spotted in google products and pages.",
+      "title": "angular edge header - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/edge-header/",
+      "name": "Edge header"
+  },
+  {
+      "description": "angular bootstrap notification is a set of components which displays a static information or one generated in response to particular user on-site behavior.",
+      "title": "angular notification - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/advanced/notifications/",
+      "name": "Notification"
+  },
+  {
+      "description": "angular bootstrap streak is a horizontal block containing text, uses to separate content sections or highlight some piece of information.",
+      "title": "angular streak - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/streak/",
+      "name": "Streak"
+  },
+  {
+      "description": "angular bootstrap timeline is a component which can be used to display content in chronological order. listed items may contain not only text but also images.",
+      "title": "angular timeline - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/timeline/",
+      "name": "Timeline"
+  },
+  {
+      "description": "angular bootstrap video is a collection of components which allow to present content in video format.",
+      "title": "angular video - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/video/",
+      "name": "Video"
+  },
+  {
+      "description": "angular bootstrap gallery is a component with great ui and ux values. with it you can combine beautiful and stunning images with your website or application!",
+      "title": "angular gallery - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/advanced/gallery/",
+      "name": "Gallery"
+  },
+  {
+      "description": "angular bootstrap button groups are buttons grouped together in a single line with no space between them. they can be grouped both vertically and horizontally.",
+      "title": "angular button group - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/components/buttons-group/",
+      "name": "Button group"
+  },
+  {
+      "description": "angular bootstrap loaders are components which are visible while loading a page, a form, or an element. their ux value is incredibly high, because they inform the user what is currently happening on the page.",
+      "title": "angular loaders - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/components/loaders/",
+      "name": "Loader"
+  },
+  {
+      "description": "angular bootstrap background image is an illustration chosen by a user placed behind all other objects on the website. it may be full or partially visible.",
+      "title": "angular background image - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/css/background-image/",
+      "name": "Background image"
+  },
+  {
+      "description": "angular bootstrap gradient is a linear color progression - a transition between two colors is fluent. gradient can be used in various of components.",
+      "title": "angular gradient - bootstrap 4 & material design. example & tutorial.",
+      "link": "/docs/b4/angular/css/gradients/",
+      "name": "Gradient"
+  },
+  {
+      "description": "angular bootstrap table scroll functionality works vertically (y axis) and horizontally (x axis). you can use it as an alternative for the pagination.",
+      "title": "angular table scroll - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/tables/scroll/",
+      "name": "Table scroll"
+  },
+  {
+      "description": "angular bootstrap contact form - a step-by-step guide on how to create a contact form for sending messages using the nodejs environment and express server. validation of client-side and server-side messages.",
+      "title": "angular contact form - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/contact/",
+      "name": "Contact form"
+  },
+  {
+      "description": "angular bootstrap scrollspy is component which highlight navigation elements depending on the current scroll position and make navigation more intuitive and informative.",
+      "title": "angular scrollspy - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/navigation/scrollspy/",
+      "name": "Scrollspy"
+  },
+  {
+      "description": "angular bootstrap auto format inputs is a collection of directives which can be used to format inputs automatically as the user type.",
+      "title": "angular auto format inputs - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/forms/auto-format/",
+      "name": "Auto format inputs"
+  },
+  {
+      "description": "angular 8, bootstrap 4, typescript. cli version. 500+ material ui elements, 600+ material icons, 74 css animations, sass files and many more. no jquery. %",
+      "title": "angular bootstrap with material design - powerful and free ui kit",
+      "link": "/docs/b4/angular/",
+      "name": "Material Design for Bootstrap (Angular version)"
+  },
+  {
+      "description": "bootstrap primarily uses the following media query ranges—or breakpoints—in our source sass files for our layout, grid system, and components.",
+      "title": "angular media queries - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/layout/media-queries/",
+      "name": "Media Queries"
+  },
+  {
+      "description": "here is angular combination of colors based on material design color system can be used to create a color theme that reflects your brand or style.",
+      "title": "angular color combination - bootstrap 4 & material design",
+      "link": "/docs/b4/angular/css/color-combination/",
+      "name": "Color Combination"
+  },
+  {
+      "description": "angular bootstrap text color is a set of colors which can be used to change the font's color. color may be also changed when hovering a mouse over a text area.",
+      "title": "angular text color - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/css/text-color/",
+      "name": " Text Color"
+  },
+  {
+      "description": "%%excerpt%% %%excerpt%% multiple plugins for latest angular, addons which enhance your angular bootstrap project. quick install, easy to use. huge community and fast support.",
+      "title": "",
+      "link": "/docs/b4/angular/plugins/",
+      "name": "MDB Angular plugins & addons"
+  },
+  {
+      "description": "angular bootstrap jumbotron is a responsive component which the main goal is to focus visitor's attention or highlight the special piece of information.",
+      "title": "angular jumbotron - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/components/jumbotron/",
+      "name": "Jumbotron"
+  },
+  {
+      "description": "angular bootsrap .net core integration",
+      "title": "angular bootsrap .net core integration",
+      "link": "/docs/b4/angular/getting-started/net-core-integration/",
+      "name": ".Net Core integration"
+  },
+  {
+      "description": "in this tutorial, you will learn how to create your first progressive web app based on angular 7 and md bootstrap angular.",
+      "title": "angular pwa tutorial – free progressive web app course",
+      "link": "/education/pwa/angular/lesson-1-angular-pwa-introduction/",
+      "name": "PWA Introduction"
+  },
+  {
+      "description": "angular progressive web app tutorial - creating the application view. create view for your angular pwa app with our tutorial.",
+      "title": "angular progressive web app tutorial - creating the application view",
+      "link": "/education/pwa/angular/lesson-2-creating-the-view/",
+      "name": "Creating the view"
+  },
+  {
+      "description": "angular progressive web app tutorial - using the @angular/pwa. learn how to add pwa mechanism to your existing application with just one command.",
+      "title": "angular progressive web app tutorial - using the @angular/pwa",
+      "link": "/education/pwa/angular/lesson-3-configuring-pwa-mechanism/",
+      "name": "Configuring the PWA mechanism"
+  },
+  {
+      "description": "angular progressive web app tutorial - running app in the browser. learn what is required by pwa to run service workers in the browser environment.",
+      "title": "angular progressive web app tutorial - running app in the browser",
+      "link": "/education/pwa/angular/lesson-4-running-in-the-browser/",
+      "name": "Running app in the browser"
+  },
+  {
+      "description": "angular progressive web app tutorial - creating the firebase database. in this lesson we'll show you how you should integrate your project with firebase.",
+      "title": "angular progressive web app tutorial - creating the firebase database",
+      "link": "/education/pwa/angular/lesson-5-creating-firebase-database/",
+      "name": "Creating a Firebase database"
+  },
+  {
+      "description": "angular progressive web app tutorial - creating the indexeddb database. we'll show you how you should work with indexeddb api and the idb npm package.",
+      "title": "angular progressive web app tutorial - creating the indexeddb database",
+      "link": "/education/pwa/angular/lesson-6-creating-indexeddb-database/",
+      "name": "Creating an IndexedDB database"
+  },
+  {
+      "description": "angular progressive web app tutorial - working with databases. learn how to combine firebase database with the indexeddb database.",
+      "title": "angular progressive web app tutorial - working with databases",
+      "link": "/education/pwa/angular/lesson-7-working-with-databases/",
+      "name": "Working with databases"
+  },
+  {
+      "description": "angular progressive web app tutorial - deploy to firebase. in this section you'll learn how to deploy your application to the firebase hosting.",
+      "title": "angular progressive web app tutorial - deploy to firebase",
+      "link": "/education/pwa/angular/lesson-8-deploy-to-firebase/",
+      "name": "Deploy to Firebase"
+  },
+  {
+      "description": "angular progressive web app tutorial -tutorial conclusion. conclusion of the angular progressive web apps tutorial.",
+      "title": "angular progressive web app tutorial -tutorial conclusion",
+      "link": "/education/pwa/angular/lesson-9-tutorial-conclusion/",
+      "name": "Tutorial conclusion"
+  },
+  {
+      "description": "angular bootstrap overflow are lines placed on the edges of buttons, images, and other web elements. additionally, border-radius class rounds the elements corners.",
+      "title": "angular overflow - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/overflow/",
+      "name": "Overflow"
+  },
+  {
+      "description": "angular bootstrap masonry is a grid layout based on columns. unlike other grid layouts, it doesn’t have fixed height rows.",
+      "title": "angular masonry - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/layout/masonry/",
+      "name": "Masonry"
+  },
+  {
+      "description": "angular bootstrap wysiwyg editor is a lightweight plugin that enables rich text editing on your website.",
+      "title": "angular wysiwyg editor plugin - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/plugins/wysiwyg/",
+      "name": "WYSIWYG Editor"
+  },
+  {
+      "description": "angular bootstrap calendar plugin is an extension that allows you to create calendar functionality. thanks to this plugin you will be able to easily create, delete and manage events.",
+      "title": "angular full calendar plugin - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/plugins/full-calendar/",
+      "name": "Full Calendar"
+  },
+  {
+      "description": "angular bootstrap file upload plugin is an extension that allows you to upload files by using drag and drop functionality.",
+      "title": "angular file upload plugin - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/plugins/file-upload/",
+      "name": "File Upload"
+  },
+  {
+      "description": "md angular bootstrap gallery filter plugin is an extension perfect for introducing vistors to a number of images, which can be freely filtered depending on the category.",
+      "title": "angular gallery filter plugin - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/plugins/filter/",
+      "name": "Gallery Filter"
+  },
+  {
+      "description": "installation guide for mdb angular boilerplate application.",
+      "title": "mdb angular boilerplate installation guide",
+      "link": "/docs/b4/angular/getting-started/boilerplate-installation/",
+      "name": "Boilerplate installation"
+  },
+  {
+      "description": "open sourced angular crud application starter with ngrx state management and firebase backend - free for personal and commercial use.",
+      "title": "angular boilerplate - angular crud with ngrx and firebase",
+      "link": "/freebies/angular/boilerplate/",
+      "name": " Angular CRUD with NgRx and Firebase"
+  },
+  {
+      "description": "angular bootstrap stretched can make any html element or bootstrap component clickable by “stretching” a nested link via css.",
+      "title": "angular stretched links - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/angular/utilities/stretched-link/",
+      "name": "Stretched link"
+  },
+  {
+      "description": "angular bootstrap rfs is a font size engine which automatically calculates the appropriate font size based on the dimensions of the browser viewport.",
+      "title": "angular responsive font size - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/content/responsive-font-size/",
+      "name": "Responsive Font Size"
+  },
+  {
+      "description": "angular bootstrap draggable plugin is an extension that allows you to move objects by clicking on them and dragging anywhere within the viewport.",
+      "title": "angular draggable plugin - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/plugins/draggable/",
+      "name": "Draggable plugin"
+  },
+  {
+      "description": "angular bootstrap color picker is a component which you can use when writing online shops, clothing creators or other functionalities that require the user to provide some color.",
+      "title": "angular color picker plugin - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/plugins/color-picker/",
+      "name": "Color Picker"
+  },
+  {
+      "description": "angular bootstrap table editor is an extension that allows you to create customized, fully editable tables. easy to use, setup and customize.",
+      "title": "angular table editor plugin - bootstrap 4 & material design. examples & tutorials",
+      "link": "/docs/b4/angular/plugins/table-editor/",
+      "name": "Table Editor"
+  },
+  {
+      "description": "sticky header was created to allow you to use the functionality that is implemented in google chrome on mobile. if you move the page down, navbar will hide, and if you move up, navbar will show up.",
+      "title": "angular sticky header - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/navigation/sticky-header/",
+      "name": "Sticky Header"
+  },
+  {
+      "description": "angular bootstrap sortable plugin is an extension that allows you to move, reorder, sort and organize elements on your website by using drag and drop functionality.",
+      "title": "angular sortable - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/plugins/sortable/",
+      "name": "Sortable"
+  },
+  {
+      "description": "angular treeview is used to show hierarchical information which starts from the root item and proceed to its children and their respective children.",
+      "title": "angular treeview - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/angular/components/treeview/",
+      "name": "Treeview"
+  }
+]

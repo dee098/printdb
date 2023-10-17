@@ -1,0 +1,824 @@
+[
+  {
+      "description": "react bootstrap images are automatically adjusted to all screen sizes - image will never be larger than parent elements. its styles can be changed via classes.",
+      "title": "react images - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/content/images/",
+      "name": "Images"
+  },
+  {
+      "description": "react bootstrap visibility class allows controlling the visibility of elements without changing the display. this utility keep content visible for screen readers.",
+      "title": "react visibility - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/visibility/",
+      "name": "Visibility"
+  },
+  {
+      "description": "react bootstrap buttons are components which are triggering a desirable user interaction. easy to customize in terms of size, shape, and color.",
+      "title": "react buttons - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/buttons/",
+      "name": "Buttons"
+  },
+  {
+      "description": "react bootstrap charts are graphical representations of data. charts come in different sizes and shapes: bar, line, pie, radar, polar and more.",
+      "title": "react charts - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/charts/",
+      "name": "Charts"
+  },
+  {
+      "description": "react bootstrap breadcrumbs are navigation elements which indicate a current location on the website. breadcrumbs show a hierarchy of the current location as well",
+      "title": "react breadcrumb - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/breadcrumb/",
+      "name": "Breadcrumb"
+  },
+  {
+      "description": "react bootstrap layout includes responsive breakpoints in grid system for providing mobile-first experience and z-index - a third axis to arrange content.",
+      "title": "react layout - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/layout/overview/",
+      "name": "Layout overview"
+  },
+  {
+      "description": "over 8 react bootstrap grid examples using the 12 columns bootstrap grid system to position your pieces of content exactly as you wish to.",
+      "title": "react bootstrap grid examples - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/layout/grid-examples/",
+      "name": "Grid examples"
+  },
+  {
+      "description": "learn about all the pros and cons of using dedicated, react bootstrap grid system, and most importantly about its 12 column layout.",
+      "title": "react grid usage - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/layout/grid-usage/",
+      "name": "Grid system"
+  },
+  {
+      "description": "react bootstrap utilities for layout are a group of helpers, which is useful in showing, hiding, aligning, and spacing content.",
+      "title": "react utilities - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/layout/utilities/",
+      "name": "Utilities"
+  },
+  {
+      "description": "react bootstrap media provides you with various ways of presenting images and videos to your audience thanks to bootstrap way of handling those elements.",
+      "title": "react media - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/layout/media-object/",
+      "name": "Media object"
+  },
+  {
+      "description": "learn how to use react bootstrap components at basic and advanced level. read our visual guide and comprehensive tutorial about the newest bootstrap 4.",
+      "title": "react components - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/demo/",
+      "name": " Components"
+  },
+  {
+      "description": "react bootstrap tags, labels & badges categorize content with use of a text or icons, making it easier to browse throughout articles, comments or pages.",
+      "title": "react tags, labels & badges - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/badges/",
+      "name": "Tags, Labels & Badges"
+  },
+  {
+      "description": "react bootstrap collapse is a component which toggles content. useful for grouping great amount of texts and/or graphics into expanding and collapsing items.",
+      "title": "react collapse - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/advanced/collapse/",
+      "name": "Collapse"
+  },
+  {
+      "description": "react bootstrap figures are commonly used elements for displaying images with the caption. a caption can be left-aligned or right-align.",
+      "title": "react figures - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/content/figures/",
+      "name": "Figures"
+  },
+  {
+      "description": "react bootstrap code is a set of classes which are used for styling text as inline codes, variables, users inputs, sample outputs or blocks of code.",
+      "title": "react code - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/content/code/",
+      "name": "Code"
+  },
+  {
+      "description": "react bootstrap typography is the style and appearance of headings, lists, body text and basic paragraphs - 14 examples coming along with descriptions.",
+      "title": "react typography - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/content/typography/",
+      "name": "Typography"
+  },
+  {
+      "description": "react bootstrap borders are lines placed on the edges of buttons, images, and other web elements. additionally, border-radius class rounds the elements corners.",
+      "title": "react borders - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/borders/",
+      "name": "Borders"
+  },
+  {
+      "description": "react bootstrap clearfix is a utility which to automatically clear child elements, so a user doesn't have to add additional markup.",
+      "title": "react clearfix - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/clearfix/",
+      "name": "Clearfix"
+  },
+  {
+      "description": "react bootstrap close icon is an element which is used for dismissing components like modals and alerts. see how easy implementation is.",
+      "title": "react close icon - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/close-icon/",
+      "name": "Icon"
+  },
+  {
+      "description": "react bootstrap display is a property which applies to many elements and specifies the type of rendering box used for an element.",
+      "title": "react display - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/display/",
+      "name": "Display"
+  },
+  {
+      "description": "react bootstrap embeds is a utility which helps you insert video or slideshow in the page keeping width of the parent and scales on any device.",
+      "title": "react embeds - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/embeds/",
+      "name": "Embeds"
+  },
+  {
+      "description": "react bootstrap float is a utility which specified whether an element will be placed on the right or left side of a container. floating may be also disabled.",
+      "title": "react float - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/float/",
+      "name": "Float"
+  },
+  {
+      "description": "react bootstrap flexbox is a utility for managing position of the items in a container and distributes space between them in a more efficient way.",
+      "title": "react flexbox - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/flexbox/",
+      "name": "Flexbox"
+  },
+  {
+      "description": "react bootstrap image replacement is a utility that lets you swap text for background images by adding a single class.",
+      "title": "react image replacement - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/image-replacement/",
+      "name": "Image replacement"
+  },
+  {
+      "description": "react bootstrap position utilities are helpful for quickly placing a component outside the normal document flow. see a handful of fixed position classes.",
+      "title": "react position - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/position/",
+      "name": "Position"
+  },
+  {
+      "description": "react bootstrap screenreaders is an assistive technology which hides elements on every device except screen readers with a single class.",
+      "title": "react screenreaders - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/screenreaders/",
+      "name": "Screenreaders"
+  },
+  {
+      "description": "fully functional responsive examples of react bootstrap tables with search and sort options & pagination, buttons & icons elements.",
+      "title": "react tables - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/tables/basic/",
+      "name": "Tables"
+  },
+  {
+      "description": "react bootstrap sizing is a utility which allows you to adjust elements width or height. there are 4 available values: 25%, 50%, 75% and 100%.",
+      "title": "react sizing - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/sizing/",
+      "name": "Sizing"
+  },
+  {
+      "description": "react bootstrap spacing is a utility which assigns responsive margin or padding classes to elements to modify its display position.",
+      "title": "react spacing - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/spacing/",
+      "name": "Spacing"
+  },
+  {
+      "description": "react bootstrap text utilities are a group of text modifiers which change text alignment, wrapping, letter capitalization, weight, and italics.",
+      "title": "react text - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/text/",
+      "name": "Text"
+  },
+  {
+      "description": "react bootstrap vertical align is a utility that specifies the alignment of elements. works with inline, inline-block, inline-table, and table cell elements only.",
+      "title": "react vertical align - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/vertical-align/",
+      "name": "Vertical Align"
+  },
+  {
+      "description": "react bootstrap input is a special field which is used in order to receive data from the user. used mostly in a variety of web-based forms.",
+      "title": "react inputs - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/inputs/",
+      "name": "Inputs"
+  },
+  {
+      "description": "react bootstrap cards are components which display content build of different elements with characteristic shadows, depth and hover effects.",
+      "title": "react card - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/cards/",
+      "name": "Cards"
+  },
+  {
+      "description": "react bootstrap pagination is a component used when content is divided into separate pages to display the page numbers and enable navigation between them.",
+      "title": "react pagination - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/pagination/",
+      "name": "Pagination"
+  },
+  {
+      "description": "react bootstrap progress bar is a component which displays a progress of a process in which user is involved. their color, shape, and animation can be customized.",
+      "title": "react progress bar - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/progress-bar/",
+      "name": "Progress Bar"
+  },
+  {
+      "description": "react bootstrap modal is lightweight, but powerful & multipurpose popup. learn how to manipulate size, styles & position. multiple examples and detailed tutorial.",
+      "title": "react modals - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/modals/basic/",
+      "name": "Modals"
+  },
+  {
+      "description": "see how easy it is to install and use free material design for react bootstrap ui kit. you need only 5 minutes to start creating stunning websites with no effort.",
+      "title": "react bootstrap with material design - getting started & download",
+      "link": "/docs/b4/react/getting-started/installation/",
+      "name": "Bootstrap Getting Started"
+  },
+  {
+      "description": "react bootstrap popover is a component which displays a box with a content after a click on an element - similar to the tooltip but can contain more content.",
+      "title": "react popovers - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/popovers/",
+      "name": "Popovers"
+  },
+  {
+      "description": "react bootstrap tooltips are little clouds with a brief text message, triggered by clicking on a specific element or hovering over it.",
+      "title": "react tooltips - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/tooltips/",
+      "name": "Tooltips"
+  },
+  {
+      "description": "react bootstrap alerts are feedback messages which are displayed after specific actions preceded by the user. length of the text is not limited.",
+      "title": "react alerts - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/alerts/",
+      "name": "Alerts"
+  },
+  {
+      "description": "react bootstrap tabs are components which separate content placed in the same wrapper but in the separate pane. only one pane can be displayed at the time.",
+      "title": "react tabs - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/tabs/",
+      "name": "Tabs"
+  },
+  {
+      "description": "learn how to use react bootstrap css at basic and advanced level. read our visual guide and comprehensive tutorial about the newest bootstrap 4.",
+      "title": "react css - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/demo/",
+      "name": "CSS"
+  },
+  {
+      "description": "react bootstrap masks alter the visibility of an element by either partially or fully hiding it. masks are used to make content more visible in the picture.",
+      "title": "react masks - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/masks/",
+      "name": "Masks"
+  },
+  {
+      "description": "react bootstrap dropdown is a toggleable menu embedding additional links or content. it allows you to construct advanced navigation and link categorization",
+      "title": "react dropdown - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/dropdowns/",
+      "name": "Dropdowns"
+  },
+  {
+      "description": "react bootstrap carousel is responsive and interactive slideshow which is created for presenting content, especially images and videos.",
+      "title": "react carousel - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/carousel/",
+      "name": "Carousel"
+  },
+  {
+      "description": "material design for react bootstrap provides a detailed list of changes in each release. read it carefully to do not miss any important update.",
+      "title": "mdbootstrap react changelog - list of changes in the newest release",
+      "link": "/docs/b4/react/changelog/",
+      "name": " Changelog"
+  },
+  {
+      "description": "react bootstrap hover effect appears when a user positions computer cursor over an element without activating it. hover effects make a website more interactive.",
+      "title": "react hover effects - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/hover-effects/",
+      "name": "Hover effects"
+  },
+  {
+      "description": "react bootstrap forms are input-based components which are designed to collect users data. used as login, subscribe or contact form, all can be easily customized.",
+      "title": "react forms - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/basic/",
+      "name": "Forms"
+  },
+  {
+      "description": "react bootstrap date picker is a component that allows your users to pick the time in a straightforward, visual manner, while requiring minimum setup.",
+      "title": "react datepicker - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/date-picker/",
+      "name": "Date Picker"
+  },
+  {
+      "description": "react bootstrap time picker is a plugin which allows a user to select a time in the bootstrap form.",
+      "title": "react timepicker - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/time-picker/",
+      "name": "Time picker"
+  },
+  {
+      "description": "react bootstrap select is a form control which after a click displays a collapsable list of multiple values which can be used in forms, menus or surveys.",
+      "title": "react select - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/select/",
+      "name": "Select"
+  },
+  {
+      "description": "react bootstrap scrollspy autmatically updates tabs, navigation or list group components based on scroll position to indicate which link is currently active in the viewport.",
+      "title": "react scrollspy - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/scrollspy/",
+      "name": "ScrollSpy"
+  },
+  {
+      "description": "react sidenav is a vertical navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.",
+      "title": "react sidebar / sidenav - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/sidenav/",
+      "name": "SideNav"
+  },
+  {
+      "description": "react bootstrap navigation is a combination of navbar, sidenav, and footer in various forms and different functionalities like non-fixed navbar or hidden sidenav.",
+      "title": "react navigation - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/compositions/",
+      "name": "Navigation"
+  },
+  {
+      "description": "react bootstrap navbar is a horizontal navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.",
+      "title": "react navbar - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/navbar/",
+      "name": "Navbar"
+  },
+  {
+      "description": "react bootstrap animations are illusions of motions for web elements. +70 animations generated by css only, work properly on every browser.",
+      "title": "react animation - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/animations/",
+      "name": "Animations"
+  },
+  {
+      "description": "react bootstrap colors is a sensational palette of 300 delightful colors, which will aid you in creating inviting, consistent design.",
+      "title": "react colors - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/colors/",
+      "name": "Colors"
+  },
+  {
+      "description": "react bootstrap shadow is an effect used in web elements which provides important visual cues about objects' depth and directional movement.",
+      "title": "react shadows - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/shadows/",
+      "name": "Shadows"
+  },
+  {
+      "description": "react bootstrap skins are basic color schemes which can be applied for the website providing ready to use full-page web design.",
+      "title": "react skins - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/skins/",
+      "name": "Skins"
+  },
+  {
+      "description": "react bootstrap list groups are a flexible component which displays not only simple list of elements but complex custom content.",
+      "title": "react list group - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/list-group/",
+      "name": "List Group"
+  },
+  {
+      "description": "react bootstrap footer is an additional navigation for the website. it can hold links, buttons, company info, copyrights, forms and many other elements.",
+      "title": "react footer - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/footer/",
+      "name": "Footer"
+  },
+  {
+      "description": "react bootstrap lightbox is a group of images combined in one responsive gallery. elements are grouped in grid, which can be displayed as a slideshow.",
+      "title": "react lightbox - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/lightbox/",
+      "name": "Lightbox"
+  },
+  {
+      "description": "react bootstrap sticky content (affix) is a plugin which allows elements to be locked in the particular area of the page. often used in navigation menus.",
+      "title": "react sticky content - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/sticky/",
+      "name": "Sticky"
+  },
+  {
+      "description": "get started with mdbootstrap react, the world's most popular material design framework for building responsive, mobile-first sites.",
+      "title": "react bootstrap - 5 min quick start",
+      "link": "/docs/b4/react/getting-started/installation/",
+      "name": " 5 min Quick Start"
+  },
+  {
+      "description": "this blog sections gather all the most useful components that may come in handy in managing a content-heavy blog page.",
+      "title": "react bootstrap blog section",
+      "link": "/docs/b4/react/sections/blog/",
+      "name": "Blog"
+  },
+  {
+      "description": "contact section gathers all the essential components used in providing your users with location details, emails or phone numbers.",
+      "title": "react bootstrap contact section",
+      "link": "/docs/b4/react/sections/contact/",
+      "name": "Contact"
+  },
+  {
+      "description": "e-commerce section brings together all the components used in managing an online shop, along with product cards and carousels.",
+      "title": "react bootstrap e-commerce",
+      "link": "/docs/b4/react/sections/e-commerce/",
+      "name": "Commerce"
+  },
+  {
+      "description": "features sections let you present your project, product or idea in a way that will surely convince the visitor about its value.",
+      "title": "react bootstrap features",
+      "link": "/docs/b4/react/sections/features/",
+      "name": "Features"
+  },
+  {
+      "description": "intro section introduce your users to the most valuable piece of the information about the project, app, software or product.",
+      "title": "react bootstrap intros",
+      "link": "/docs/b4/react/sections/intros/",
+      "name": "Intros"
+  },
+  {
+      "description": "magazine section gathers most crucial components useful in managing a content-heavy website or a more simple blog.",
+      "title": "react bootstrap magazine",
+      "link": "/docs/b4/react/sections/magazine/",
+      "name": "Magazine"
+  },
+  {
+      "description": "projects section is useful if you are about to show your website visitors how exactly you develop each project and what is it about.",
+      "title": "react bootstrap projects",
+      "link": "/docs/b4/react/sections/projects/",
+      "name": "Projects"
+  },
+  {
+      "description": "social sections are rich in a variety of news feed types with comments, likes, profiles and sharing options ready to be implemented on your platform.",
+      "title": "react bootstrap social",
+      "link": "/docs/b4/react/sections/social/",
+      "name": "Social"
+  },
+  {
+      "description": "team sections let you present all your crew members in a way that your visitors will love. that's a great opportunity to get them to know you.",
+      "title": "react bootstrap team sections",
+      "link": "/docs/b4/react/sections/team/",
+      "name": "Team"
+  },
+  {
+      "description": "testimonials sections is a chance for you to show your website visitors how your community love your projects, product or an app.",
+      "title": "react bootstrap testimonials",
+      "link": "/docs/b4/react/sections/testimonials/",
+      "name": "Testimonials"
+  },
+  {
+      "description": "react bootstrap social buttons are buttons which are dedicated for social media usage. font awesome covers icons for all major platforms.",
+      "title": "react buttons social - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/buttons-social/",
+      "name": "Social buttons"
+  },
+  {
+      "description": "react bootstrap panels are bordered boxes where you can place texts, lists, tables and other content. panels are similar to cards, but they don't include media.",
+      "title": "react panels - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/panels/",
+      "name": "Panels"
+  },
+  {
+      "description": "react bootstrap search is a component which enables a process of finding words, sentences, and numbers in the collection of documents, web pages or other sources.",
+      "title": "react search - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/search/",
+      "name": "Search"
+  },
+  {
+      "description": "react bootstrap autocomplete is a component which predicts the words basing on the first few letters given by a user, while one is typing it.",
+      "title": "react autocomplete - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/autocomplete/",
+      "name": "Autocomplete"
+  },
+  {
+      "description": "bootstrap form validation are input-based components which collect and validate users data. used as login or register can improve user experience.",
+      "title": "react form validation - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/validation/",
+      "name": "Form Validation"
+  },
+  {
+      "description": "react bootstrap table editable is component with which you can add and remove rows and change text and information within cells.",
+      "title": "react table editable - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/tables/editable/",
+      "name": "Table Editable"
+  },
+  {
+      "description": "react bootstrap table pagination is a component with simple navigation which lets you split a huge amount of content within a set of tables into smaller parts.",
+      "title": "react table pagination - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/tables/pagination/",
+      "name": "Table Pagination"
+  },
+  {
+      "description": "react bootstrap responsive tables allow tables to be scrolled horizontally with ease. that means they can be comfortably used both on desktops & mobile devices.",
+      "title": "react responsive table - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/tables/responsive/",
+      "name": "Table Responsive"
+  },
+  {
+      "description": "react bootstrap table scroll functionality works vertically (y axis) and horizontally (x axis). you can use it as an alternative for the pagination.",
+      "title": "react table scroll - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/tables/scroll/",
+      "name": "Table Scroll"
+  },
+  {
+      "description": "react bootstrap table search is a component which is super fast and easy to use searching functionality dedicated to our tables.",
+      "title": "react table search - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/tables/search/",
+      "name": "Table Search"
+  },
+  {
+      "description": "react bootstrap sort table is component with sorting functionality which lets you sort the data of the tables according to any specific columns.",
+      "title": "react table sort - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/tables/sort/",
+      "name": "Table Sort"
+  },
+  {
+      "description": "react bootstrap stepper is a component that displays content as a process with defined by user milestones. following steps are separated and connected by buttons.",
+      "title": "react stepper - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/stepper/",
+      "name": "Stepper"
+  },
+  {
+      "description": "bootstrap 4 integration with the most popular plugin enhancing the possibilities of standard react tables. available in material design or default bootstrap style.",
+      "title": "react datatables - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/tables/datatables/",
+      "name": "Datatables"
+  },
+  {
+      "description": "extended react bootstrap tables with additional elements like buttons, checkboxes, icons, panels & more.",
+      "title": "react extended tables - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/tables/additional/",
+      "name": "Table styles &amp; examples"
+  },
+  {
+      "description": "react bootstrap checkbox is a component used for allowing a user to make a multiple choice. broadly used in the forms and surveys.",
+      "title": "react checkbox - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/checkbox/",
+      "name": "Checkbox"
+  },
+  {
+      "description": "react modal generator - a simple and fast way to create a bootstrap 4 modals with custom styles, sizes, animations and positions.",
+      "title": "react modal generator - free, online editor for bootstrap 4 modals",
+      "link": "/docs/b4/react/modals/generator/",
+      "name": "Modal Generator"
+  },
+  {
+      "description": "react bootstrap hamburger menu is a navigation with additional hamburger looks-like icon which activates hidden menu elements in navbar or sidenav.",
+      "title": "react hamburger menu - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/hamburger-menu/",
+      "name": "Hamburger Menu"
+  },
+  {
+      "description": "react bootstrap iframe is an html document which is embedded in another html doc on a web page. iframes are used to insert content from another source.",
+      "title": "react bootstrap iframe - examples & tutorial. basic & advanced usage",
+      "link": "/docs/b4/react/plugins/iframe/",
+      "name": "Iframe"
+  },
+  {
+      "description": "react bootstrap timeline is a component which can be used to display content in chronological order. listed items may contain not only text but also images.",
+      "title": "react bootstrap timeline - examples & tutorial. basic & advanced usage",
+      "link": "/docs/b4/react/plugins/timeline/",
+      "name": "Timeline"
+  },
+  {
+      "description": "react bootstrap chat is a component dedicated for text-based communication between two or more users in real time. build with conversations list sidebar.",
+      "title": "react chat - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/chat/",
+      "name": "Chat"
+  },
+  {
+      "description": "learn the most powerful javascript library by creating your own app. this tutorial will guide you step by step from basic to advanced concepts of react technology.",
+      "title": "react tutorial - your own react bootstrap app, step by step",
+      "link": "/education/react/",
+      "name": " creating a React Bootstrap app, step by step"
+  },
+  {
+      "description": "react 16, bootstrap 4 & material design. 400+ material ui elements, 600+ material icons, 74 css animations, sass files and many more. no jquery.",
+      "title": "react bootstrap with material design - powerful and free ui kit",
+      "link": "/docs/b4/react/",
+      "name": "Material Design for Bootstrap (React version)"
+  },
+  {
+      "description": "%%excerpt%% multiple plugins for react js, addons which enhance your react bootstrap project. quick install, easy to use & customize. huge community and fast support.",
+      "title": "",
+      "link": "/docs/b4/react/plugins/",
+      "name": "MDB React plugins & addons"
+  },
+  {
+      "description": "react bootstrap radio buttons are option buttons, which allows users to choose one of a predefined set of two or more options. commonly used in forms and surveys.",
+      "title": "react radio button - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/radio-button/",
+      "name": "Radio Button"
+  },
+  {
+      "description": "react bootstrap switch is a simple component used for activating one of two predefined options. commonly used as an on/off button.",
+      "title": "react switch - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/switch/",
+      "name": "Switch"
+  },
+  {
+      "description": "react bootstrap slider is an interactive component that lets the user swiftly slide through possible values spread on the desired range.",
+      "title": "react slider - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/slider/",
+      "name": "Slider"
+  },
+  {
+      "description": "react bootstrap file input is a field which user can use to upload one or more files (photos, documents or any other file type) from the local storage.",
+      "title": "react file input - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/file-input/",
+      "name": "File Input"
+  },
+  {
+      "description": "react bootstrap textarea is an input dedicated for a large volume of text. it may be used in a variety of components like forms, comment sections, and forums.",
+      "title": "react textarea - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/textarea/",
+      "name": "Textarea"
+  },
+  {
+      "description": "react bootstrap notifications are feedback messages which are displayed after specific actions preceded by the user. length of the text is not limited.",
+      "title": "react notification - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/notifications/",
+      "name": "Notifications"
+  },
+  {
+      "description": "react bootstrap pills are simple navigation components that expedite browsing through various options in the layout.",
+      "title": "react pills - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/pills/",
+      "name": "Pills"
+  },
+  {
+      "description": "react bootstrap background image is an illustration chosen by a user placed behind all other objects on the website. it may be full or partially visible.",
+      "title": "react background image - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/background-image/",
+      "name": "Background Image"
+  },
+  {
+      "description": "react bootstrap gradient is a linear color progression - a transition between two colors is fluent. gradient can be used in various of components.",
+      "title": "react gradient - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/gradients/",
+      "name": "Gradients"
+  },
+  {
+      "description": "react bootstrap icons usage is a quick tutorial which describes the proper way of using font awesome icons in bootstrap framework.",
+      "title": "react icons - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/content/icons-usage/",
+      "name": "Icons usage"
+  },
+  {
+      "description": "react bootstrap icon list is a number of 1500+ scalable vector icons called font awesome which covers multiple topics and use cases.",
+      "title": "react font awesome icons list - free and amazing icons",
+      "link": "/docs/b4/react/content/icons-list/",
+      "name": "Icons list"
+  },
+  {
+      "description": "react bootstrap loader is animation that is used to keep visitors entertained while the page is still loading, which helps to increase the user experience.",
+      "title": "react loader/spinner - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/spinners/",
+      "name": "Loader/Spinner"
+  },
+  {
+      "description": "react bootstrap media queries are queries use for applying styles determined by the general type of the device, browsers characteristics or environment.",
+      "title": "react media queries - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/layout/media-queries/",
+      "name": "Media Queries"
+  },
+  {
+      "description": "react bootstrap buttons group are components which are triggering a desirable user interaction. easy to customize in terms of size, shape, and color.",
+      "title": "react buttons group - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/button-group/",
+      "name": "Button Group"
+  },
+  {
+      "description": "react bootstrap accordion is a component which organizes content within collapsable items. accordion allows showing only one collapsed item at the same time.",
+      "title": "react accordion - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/accordion/",
+      "name": "Accordion"
+  },
+  {
+      "description": "react bootstrap jumbotron is a responsive component which the main goal is to focus visitor's attention or highlight the special piece of information.",
+      "title": "react jumbotron - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/components/jumbotron/",
+      "name": "Jumbotron"
+  },
+  {
+      "description": "react edge header is a full-width block located on the top of a page as a part of a background for a card. it is a unique material design component.",
+      "title": "react edge header - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/edge-header/",
+      "name": "Edge header"
+  },
+  {
+      "description": "react flipping card is a card animation that gives an element effect of flipping to the other side upon the interaction.",
+      "title": "react flipping cards - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/flipping-cards/",
+      "name": "Flipping cards"
+  },
+  {
+      "description": "react bootstrap streak is a horizontal block containing text, uses to separate content sections or highlight some piece of information.",
+      "title": "react streak - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/streak/",
+      "name": "Streak"
+  },
+  {
+      "description": "react bootstrap blog components is a set of components which are dedicated to building a blog or any other content-oriented website.",
+      "title": "react blog components - examples & tutorial. basic & advanced usage",
+      "link": "/docs/b4/react/plugins/blog-components/",
+      "name": "Blog Components"
+  },
+  {
+      "description": "react bootstrap e-commerce components is a set of components which are necessary to build online stores and any other e-commerce business.",
+      "title": "react e-commerce components - examples, tutorial & advance usage",
+      "link": "/docs/b4/react/plugins/e-commerce-components/",
+      "name": "Commerce components"
+  },
+  {
+      "description": "react bootstrap overflow utility helps to quickly configure how content overflows an element.",
+      "title": "react overflow - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/utilities/overflow/",
+      "name": "Overflow"
+  },
+  {
+      "description": "react bootstrap masonry is a grid layout based on columns. unlike other grid layouts, it doesn’t have fixed height rows.",
+      "title": "react masonry - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/layout/masonry/",
+      "name": "Masonry"
+  },
+  {
+      "description": "bootstrap material multiselect is a form control, that after the click displays a collapsable list of multiple values which can be used in forms, menus or surveys.",
+      "title": "react multiselect - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/forms/multiselect/",
+      "name": "Multiselect"
+  },
+  {
+      "description": "react bootstrap waves effect is an impression of circular overlay movement, triggered by clicking the object, flowing from the center of the click.",
+      "title": "react waves - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/waves-effect/",
+      "name": "Waves effect"
+  },
+  {
+      "description": "react bootstrap scrollbar can be used on elements with content too wide or tall to wrap smoothly inside container. smooth scroll is an animated movement from a trigger to another place of the same page.",
+      "title": "react scrollbar & smoothscroll - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/advanced/scroll/",
+      "name": "Scrollbar & SmoothScroll"
+  },
+  {
+      "description": "the base nav component is built with flexbox and provide a strong foundation for building all types of navigation components.",
+      "title": "react navs - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/navs/",
+      "name": "Navs"
+  },
+  {
+      "description": "react bootstrap input group is a set of fields used for collecting data entered by users. usually containing buttons, text areas or other input.",
+      "title": "react input group - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/forms/input-group/",
+      "name": "Input group"
+  },
+  {
+      "description": "react bootstrap sortable plugin is an extension that allows you to move, reorder, sort and organize elements on your website by using drag functionality.",
+      "title": "react sortable - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/sortable/",
+      "name": "Sortable"
+  },
+  {
+      "description": "react md bootstrap file upload plugin is an extension that allows you to upload files by using drag and drop functionality. easy to use, setup and customize.",
+      "title": "react drag and drop file upload - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/file-upload/",
+      "name": "File Upload"
+  },
+  {
+      "description": "react bootstrap full calendar plugin is an extension that allows you to create calendar functionality.",
+      "title": "react full calendar - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/full-calendar/",
+      "name": "Full Calendar"
+  },
+  {
+      "description": "react bootstrap color picker plugin allows you to select different colors. you can successfully use it in various product wizards, clothing sales, or other situations where you need to be able to choose a color.",
+      "title": "react color picker - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/color-picker/",
+      "name": "Color Picker"
+  },
+  {
+      "description": "react bootstrap table editor is an extension that allows you to create customized, fully editable tables. easy to use, setup and customize.",
+      "title": "react table editor - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/table-editor/",
+      "name": "Table Editor"
+  },
+  {
+      "description": "react bootstrap treeview represents a hierarchical view of information, where each item can have a number of subitems.",
+      "title": "react treeview",
+      "link": "/docs/b4/react/plugins/treeview/",
+      "name": "Treeview"
+  },
+  {
+      "description": "bootstrap react rating plugin can be used to allow the users to share their opinion about the product, documentation page, photo and more.",
+      "title": "react star rating",
+      "link": "/docs/b4/react/plugins/rating/",
+      "name": "Rating"
+  },
+  {
+      "description": "react boxes are layout components which help to write build components of the css utility needs",
+      "title": "%%title%% - examples, tutorial & advanced usage",
+      "link": "/docs/b4/react/layout/box/",
+      "name": "Box"
+  },
+  {
+      "description": "react bootstrap parallax is a design effect visible while scrolling down - background image is moving with a different speed than the foreground content.",
+      "title": "react parallax - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/css/parallax/",
+      "name": "Parallax"
+  },
+  {
+      "description": "bootstrap gallery is a great ui element perfect for introducing visitors to a number of images, videos or other media files",
+      "title": "%%title%% - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/plugins/gallery/",
+      "name": "Gallery"
+  },
+  {
+      "description": "react bootstrap links allows to use link from react-router-dom in the mdbreact package.",
+      "title": "react link - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/react/navigation/link/",
+      "name": "Link"
+  },
+  {
+      "description": "bootstrap 4 integration with the most popular plugin enhancing the possibilities of standard react tables. available in material design or default bootstrap style.",
+      "title": "react datatables - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/react/tables/datatables-1/",
+      "name": "Datatables"
+  }
+]

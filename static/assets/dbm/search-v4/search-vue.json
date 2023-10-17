@@ -1,0 +1,1034 @@
+[
+  {
+      "description": "vue bootstrap close icon is an element which is used for dismissing components like modals and alerts. see how easy implementation is.",
+      "title": "vue close icon - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/close-icon/",
+      "name": "Icon"
+  },
+  {
+      "description": "see how easy it is to install and use free vue material design for bootstrap ui kit. you need only 5 minutes to start creating stunning websites with no effort.",
+      "title": "getting started with vue material design for bootstrap",
+      "link": "/docs/b4/vue/getting-started/installation/",
+      "name": "Bootstrap Getting Started"
+  },
+  {
+      "description": "learn how to use bootstrap css at basic and advanced level. read our visual guide and comprehensive tutorial about the newest bootstrap 4 and vue.",
+      "title": "vue css - visual guide to css classes & components of bootstrap 4",
+      "link": "/docs/b4/vue/css/demo/",
+      "name": "CSS"
+  },
+  {
+      "description": "learn how to use bootstrap components at basic and advanced level. read our visual guide and comprehensive tutorial about the newest bootstrap 4 and vue.",
+      "title": "vue components - visual guide to components of bootstrap 4",
+      "link": "/docs/b4/vue/components/demo/",
+      "name": "Components"
+  },
+  {
+      "description": "vue bootstrap borders are lines placed on the edges of buttons, images, and other web elements. additionally, border-radius class rounds the elements corners.",
+      "title": "vue borders - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/borders/",
+      "name": "Borders"
+  },
+  {
+      "description": "vue bootstrap clearfix is a utility which to automatically clear child elements, so a user doesn't have to add additional markup.",
+      "title": "vue clearfix - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/clearfix/",
+      "name": "Clearfix"
+  },
+  {
+      "description": "vue bootstrap display is a property which applies to many elements and specifies the type of rendering box used for an element.",
+      "title": "vue display - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/display/",
+      "name": "Display"
+  },
+  {
+      "description": "vue bootstrap embeds is a utility which helps you insert video or slideshow in the page keeping width of the parent and scales on any device.",
+      "title": "vue embeds - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/embeds/",
+      "name": "Embeds"
+  },
+  {
+      "description": "vue bootstrap flexbox is a utility for managing position of the items in a container and distributes space between them in a more efficient way.",
+      "title": "vue flexbox - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/flexbox/",
+      "name": "Flexbox"
+  },
+  {
+      "description": "vue bootstrap float is a utility which specified whether an element will be placed on the right or left side of a container. floating may be also disabled.",
+      "title": "vue float - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/float/",
+      "name": "Float"
+  },
+  {
+      "description": "vue bootstrap image replacement is a utility that lets you swap text for background images by adding a single class.",
+      "title": "vue image replacement - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/image-replacement/",
+      "name": "Image replacement"
+  },
+  {
+      "description": "vue bootstrap position utilities are helpful for quickly placing a component outside the normal document flow. see a handful of fixed position classes.",
+      "title": "vue position - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/position/",
+      "name": "Position"
+  },
+  {
+      "description": "vue bootstrap screenreaders is an assistive technology which hides elements on every device except screen readers with a single class.",
+      "title": "vue screenreaders - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/screenreaders/",
+      "name": "Screenreaders"
+  },
+  {
+      "description": "vue bootstrap sizing is a utility which allows you to adjust elements width or height. there are 4 available values: 25%, 50%, 75% and 100%.",
+      "title": "vue sizing - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/sizing/",
+      "name": "Sizing"
+  },
+  {
+      "description": "vue bootstrap spacing is a utility which assigns responsive margin or padding classes to elements to modify its display position.",
+      "title": "vue spacing - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/spacing/",
+      "name": "Spacing"
+  },
+  {
+      "description": "vue bootstrap text utilities are a group of text modifiers which change text alignment, wrapping, letter capitalization, weight, and italics.",
+      "title": "vue text - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/text/",
+      "name": "Text"
+  },
+  {
+      "description": "vue bootstrap vertical align is a utility that specifies the alignment of elements. works with inline, inline-block, inline-table, and table cell elements only.",
+      "title": "vue vertical align - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/vertical-align/",
+      "name": "Vertical Align"
+  },
+  {
+      "description": "vue bootstrap visibility class allows controlling the visibility of elements without changing the display. this utility keep content visible for screen readers.",
+      "title": "vue visibility - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/visibility/",
+      "name": "Visibility"
+  },
+  {
+      "description": "vue bootstrap breadcrumbs are navigation elements which indicate a current location on the website. breadcrumbs show a hierarchy of the current location as well.",
+      "title": "vue breadcrumbs - bootstrap 4 & material design. examples & tutorial",
+      "link": "docs/vue/navigation/breadcrumb/",
+      "name": "Breadcrumb"
+  },
+  {
+      "description": "vue bootstrap buttons are components which are triggering a desirable user interaction. easy to customize in terms of size, shape, and color.",
+      "title": "vue buttons - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/buttons/",
+      "name": "Buttons"
+  },
+  {
+      "description": "vue bootstrap cards are components which display content build of different elements with characteristic shadows, depth and hover effects.",
+      "title": "vue cards - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/cards/",
+      "name": "Cards"
+  },
+  {
+      "description": "vue bootstrap dropdown is a toggleable menu embedding additional links or content. it allows you to construct advanced navigation and link categorization",
+      "title": "vue dropdown - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/dropdowns/",
+      "name": "Dropdowns"
+  },
+  {
+      "description": "vue bootstrap grid is a system of columns and rows which is used for creating a page layout. mobile-friendly, responsive and can be rearranged depends on screen.",
+      "title": "vue grid usage - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/layout/grid-usage/",
+      "name": "Grid usage"
+  },
+  {
+      "description": "vue bootstrap input is a special field which is used in order to receive data from the user. used mostly in a variety of web-based forms.",
+      "title": "vue inputs - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/inputs/",
+      "name": "Inputs"
+  },
+  {
+      "description": "vue bootstrap tags, labels & badges categorize content with use of a text or icons, making it easier to browse throughout articles, comments or pages.",
+      "title": "vue tags, labels & badges - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/badges/",
+      "name": "Tags, Labels &amp; Badges"
+  },
+  {
+      "description": "vue bootstrap layout includes responsive breakpoints in grid system for providing mobile-first experience and z-index - a third axis to arrange content.",
+      "title": "vue layout - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/layout/overview/",
+      "name": "Layout overview"
+  },
+  {
+      "description": "vue bootstrap grid system allows you to create multiple combinations of columns and rows, changing the overall feeling of your project and its ui structure.",
+      "title": "vue grid examples - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/layout/grid-examples/",
+      "name": "Grid examples"
+  },
+  {
+      "description": "vue bootstrap media queries are queries use for applying styles determined by the general type of the device, browsers characteristics or environment.",
+      "title": "vue media queries - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/layout/media-queries/",
+      "name": "Media Queries"
+  },
+  {
+      "description": "vue bootstrap utilities for layout are a group of helpers, which is useful in showing, hiding, aligning, and spacing content.",
+      "title": "vue utilities - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/layout/utilities/",
+      "name": "Utilities for layout"
+  },
+  {
+      "description": "vue bootstrap navbar is a horizontal navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.",
+      "title": "vue navbar - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/navigation/navbar/",
+      "name": "Navbar"
+  },
+  {
+      "description": "vue bootstrap pagination is a component used to indicate existance of a series of related content across multiple pages and enables navigation across them.",
+      "title": "vue pagination - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/pagination/",
+      "name": "Pagination"
+  },
+  {
+      "description": "vue bootstrap code is a set of classes class which is used for styling text as inline codes, variables, users inputs, sample outputs or blocks of code.",
+      "title": "vue code - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/content/code/",
+      "name": "Code"
+  },
+  {
+      "description": "vue bootstrap figures are commonly used elements for displaying images with the caption. a caption can be left-aligned or right-align.",
+      "title": "vue figures - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/content/figures/",
+      "name": "Figures"
+  },
+  {
+      "description": "vue bootstrap icon list is a number of 600 scalable vector icons called font awesome which covers multiple topics and use cases.",
+      "title": "vue icons - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/content/icons-list/",
+      "name": "Icons List"
+  },
+  {
+      "description": "vue bootstrap icons usage is a quick tutorial which describes the proper way of using font awesome icons in bootstrap framework.",
+      "title": "vue icons - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/content/icons-usage/",
+      "name": "Icons Usage"
+  },
+  {
+      "description": "vue bootstrap images are automatically adjusted to all screen sizes - image will never be larger than parent elements. its styles can be changed via classes.",
+      "title": "vue images - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/content/images/",
+      "name": "Images"
+  },
+  {
+      "description": "vue bootstrap typography is the style and appearance of headings, lists, body text and basic paragraphs - 14 examples coming along with descriptions.",
+      "title": "vue typography - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/content/typography/",
+      "name": "Typography"
+  },
+  {
+      "description": "vue bootstrap carousel is responsive and interactive slideshow which is created for presenting content, especially images and videos.",
+      "title": "vue carousel - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/carousel/",
+      "name": "Carousel"
+  },
+  {
+      "description": "vue bootstrap charts are graphical representations of data. charts come in different sizes and shapes: bar, line, pie, radar, polar and more.",
+      "title": "vue charts - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/charts/",
+      "name": "Charts"
+  },
+  {
+      "description": "vue bootstrap collapse is a component which toggles content. useful for grouping great amount of texts and/or graphics into expanding and collapsing items.",
+      "title": "vue collapse - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/collapse/",
+      "name": "Collapse"
+  },
+  {
+      "description": "vue bootstrap panels are bordered boxes where you can place texts, lists, tables and other content. panels are similar to cards, but they don't include media.",
+      "title": "vue panels - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/panels/",
+      "name": "Panels"
+  },
+  {
+      "description": "vue bootstrap list group is a flexible component which displays not only simple list of elements but complex custom content.",
+      "title": "vue list group - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/list-group/",
+      "name": "List Group"
+  },
+  {
+      "description": "vue bootstrap progress bar is a component which displays a progress of a process in which user is involved. their color, shape, and animation can be customized.",
+      "title": "vue progress bar - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/progress-bar/",
+      "name": "Progress bars"
+  },
+  {
+      "description": "vue bootstrap tooltips are little clouds with a brief text message, triggered by clicking on a specific element or hovering over it.",
+      "title": "vue tooltips - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/tooltips/",
+      "name": "Tooltips"
+  },
+  {
+      "description": "vue bootstrap popover is a component which displays a box with a content after a click on an element - similar to the tooltip but can contain more content.",
+      "title": "vue popovers - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/popovers/",
+      "name": "Popovers"
+  },
+  {
+      "description": "vue bootstrap animations are illusions of motions for web elements. +70 animations generated by css only, work properly on every browser.",
+      "title": "vue animations - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/animations/",
+      "name": "Animations"
+  },
+  {
+      "description": "vue bootstrap colors is a sensational palette of 300 delightful colors, which will aid you in creating inviting, consistent design.",
+      "title": "vue colors - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/colors/",
+      "name": "Colors"
+  },
+  {
+      "description": "vue bootstrap hover effect appears when a user positions computer cursor over an element without activating it. hover effects make a website more interactive.",
+      "title": "vue hover effects - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/hover-effects/",
+      "name": "Hover Effects"
+  },
+  {
+      "description": "vue bootstrap masks alter the visibility of an element by either partially or fully hiding it. masks are used to make content more visible in the picture.",
+      "title": "vue masks - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/masks/",
+      "name": "Masks"
+  },
+  {
+      "description": "vue bootstrap shadow is an effect used in web elements which provides important visual cues about objects' depth and directional movement.",
+      "title": "vue shadows - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/shadows/",
+      "name": "Shadows"
+  },
+  {
+      "description": "vue material design for bootstrap provides a detailed list of changes in each release. read it carefully to do not miss any important update.",
+      "title": "md bootstrap vue changelog - list of changes in the latest release",
+      "link": "/docs/b4/vue/changelog/",
+      "name": "Changelog"
+  },
+  {
+      "description": "vue bootstrap tabs are components which separate content placed in the same wrapper, but in the separate pane. only one pane can be displayed at the time.",
+      "title": "vue tabs - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/tabs/",
+      "name": "Tabs"
+  },
+  {
+      "description": "vue bootstrap material select is a form control which after a click displays a collapsable list of multiple values which can be used in forms, menus or surveys.",
+      "title": "vue select - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/select/",
+      "name": "Select"
+  },
+  {
+      "description": "vue bootstrap scrollspy is a plugin which shows on the navigation list current position on the page depends on the scroll position defined by the user.",
+      "title": "vue scrollspy - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/directives/scrollspy/",
+      "name": "Scrollspy"
+  },
+  {
+      "description": "vue bootstrap skins are basic color schemes which can be applied for the website providing ready to use full-page web design.",
+      "title": "vue skins - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/skins/",
+      "name": "Skins"
+  },
+  {
+      "description": "vue bootstrap sidenav is a vertical navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.",
+      "title": "vue sidenav - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/navigation/sidenav-1/",
+      "name": "SideNav"
+  },
+  {
+      "description": "vue bootstrap time picker is a component which allows user to select a time in the bootstrap form.",
+      "title": "vue timepicker - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/time-picker-1/",
+      "name": "Time Picker"
+  },
+  {
+      "description": "vue bootstrap date picker is a plugin that adds a function of selecting date in a user-friendly way.",
+      "title": "vue datepicker - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/date-picker/",
+      "name": "Date Picker"
+  },
+  {
+      "description": "vue bootstrap sticky content (affix) is a plugin which allows elements to be locked in the particular area of the page. often used in navigation menus.",
+      "title": "vue sticky content - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/directives/sticky-content/",
+      "name": "StickyContent"
+  },
+  {
+      "description": "vue bootstrap lightbox is a group of images combined in one responsive gallery. elements are grouped in thumbnail grid, which can be displayed as a slideshow.",
+      "title": "vue lightbox - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/lightbox/",
+      "name": "Lightbox"
+  },
+  {
+      "description": "vue bootstrap navigation is a combination of navbar, sidenav, and footer in various forms and different functionalities like non-fixed navbar or hidden sidenav.",
+      "title": "vue navigation - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/navigation/compositions/",
+      "name": "Navigation"
+  },
+  {
+      "description": "vue bootstrap modal is lightweight, but powerful & multipurpose popup. learn how to manipulate size, styles & position. multiple examples and detailed tutorial.",
+      "title": "vue modals - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/modals/basic/",
+      "name": "Modals"
+  },
+  {
+      "description": "vue bootstrap blog sections provide you multiple templates and components typical for blogs.",
+      "title": "vue blog sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/blog/",
+      "name": "Blog"
+  },
+  {
+      "description": "vue bootstrap magazine sections provide you multiple sections and components typical for magazines.",
+      "title": "vue magazine sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/magazine/",
+      "name": "Magazine"
+  },
+  {
+      "description": "vue bootstrap features sections help you to highlight the best features of your project.",
+      "title": "vue features sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/features/",
+      "name": "Features"
+  },
+  {
+      "description": "vue bootstrap ecommerce sections allow you to present your products and pricing in neat, clear and outstanding way.",
+      "title": "vue ecommerce sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/e-commerce/",
+      "name": "Commerce"
+  },
+  {
+      "description": "vue bootstrap contact sections provide you a necessary information for your users to get in touch with you.",
+      "title": "vue contact sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/contact/",
+      "name": "Contact"
+  },
+  {
+      "description": "vue bootstrap testimonials can be used to present what people say about your project.",
+      "title": "vue testimonials sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/testimonials/",
+      "name": "Testimonials"
+  },
+  {
+      "description": "vue bootstrap project sections help you to present your achievements and experience.",
+      "title": "vue projects sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/projects/",
+      "name": "Projects"
+  },
+  {
+      "description": "vue bootstrap social sections enhance your project with a variety of elements such as news feed, comments, and post cards.",
+      "title": "vue social sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/social/",
+      "name": "Social"
+  },
+  {
+      "description": "vue bootstrap team sections provide you multiple sections and components to present your team.",
+      "title": "vue team sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/team/",
+      "name": "Team"
+  },
+  {
+      "description": "vue bootstrap intro sections are full-page templates which can make your website outstanding.",
+      "title": "vue intro sections - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/sections/intros/",
+      "name": "Intros"
+  },
+  {
+      "description": "get started with mdbootstrap vue, the world's most popular material design framework for building responsive, mobile-first sites.",
+      "title": "md bootstrap vue 5 min quick start",
+      "link": "/docs/b4/vue/getting-started/installation/",
+      "name": " 5 min Quick Start"
+  },
+  {
+      "description": "vue bootstrap autocomplete is a component which predicts the words basing on the first few letters given by a user, while one is typing it.",
+      "title": "vue autocomplete - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/autocomplete/",
+      "name": "Autocomplete"
+  },
+  {
+      "description": "vue bootstrap footer is an additional navigation for the website. it can hold links, buttons, company info, copyrights, forms and many other elements.",
+      "title": "vue footer - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/navigation/footer/",
+      "name": "Footer"
+  },
+  {
+      "description": "vue bootstrap forms are input-based components which are designed to collect users data. used as login, subscribe or contact form, all can be easily customized.",
+      "title": "vue forms - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/basic/",
+      "name": "Forms"
+  },
+  {
+      "description": "vue bootstrap search is a component which enables a process of finding words, sentences, and numbers in the collection of documents, web pages or other sources.",
+      "title": "vue search - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/search/",
+      "name": "Search"
+  },
+  {
+      "description": "vue bootstrap 4 integration with the most popular plugin enhancing the possibilities of standard tables. available in material design or default bootstrap style.",
+      "title": "vue datatables - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/tables/datatables/",
+      "name": "Bootstrap datatables"
+  },
+  {
+      "description": "vue bootstrap tables - basic and advanced usage. fully functional, responsive examples with search and sort options & pagination, buttons & icons elements.",
+      "title": "vue tables - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/tables/basic/",
+      "name": "Bootstrap table"
+  },
+  {
+      "description": "extended vue bootstrap tables with additional elements like buttons, checkboxes, icons, panels & more.",
+      "title": "vue table styles - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/tables/additional/",
+      "name": "Bootstrap table styles & examples"
+  },
+  {
+      "description": "vue bootstrap table pagination is a simple navigation which lets you split a huge amount of content within the tables into smaller parts.",
+      "title": "vue table pagination - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/tables/pagination/",
+      "name": "Bootstrap table pagination"
+  },
+  {
+      "description": "vue bootstrap responsive tables allow tables to be scrolled horizontally with ease. that means they can be comfortably used both on desktops and mobile devices.",
+      "title": "vue table responsive - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/tables/responsive/",
+      "name": "Bootstrap table responsive"
+  },
+  {
+      "description": "vue bootstrap table scroll functionality works vertically (y axis) and horizontally (x axis). you can use it as an alternative for the pagination.",
+      "title": "vue table scroll - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/tables/scroll/",
+      "name": "Bootstrap table scroll"
+  },
+  {
+      "description": "vue bootstrap table search - super fast and easy to use searching functionality dedicated to bootstrap tables.",
+      "title": "vue table search - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/tables/search/",
+      "name": "Bootstrap table search"
+  },
+  {
+      "description": "vue bootstrap table sort functionality lets you sort the data of the tables according to any specific columns. it's easy to implement and use.",
+      "title": "vue table sort - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/tables/sort/",
+      "name": "Bootstrap table sort"
+  },
+  {
+      "description": "provide valuable, actionable feedback to your users with html5 form validation – available in all our supported browsers. choose from the browser default validation feedback, or implement custom messages with our built-in classes.",
+      "title": "vue form validation - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/validation/",
+      "name": "Bootstrap form validation"
+  },
+  {
+      "description": "with vue bootstrap table editable, you can add and remove rows and change text and information within cells.",
+      "title": "vue table editable - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/tables/editable/",
+      "name": "Bootstrap table editable"
+  },
+  {
+      "description": "vue bootstrap stepper is a component that displays content as a process with defined by user milestones. following steps are separated and connected by buttons.",
+      "title": "vue stepper - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/stepper/",
+      "name": "Stepper"
+  },
+  {
+      "description": "vue bootstrap checkbox is a component used for allowing a user to make a multiple choice. broadly used in the forms and surveys.",
+      "title": "vue checkbox - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/checkbox/",
+      "name": "Checkbox"
+  },
+  {
+      "description": "vue bootstrap radio buttons are option buttons, which allows users to choose one of a predefined set of two or more options. commonly used in forms and surveys.",
+      "title": "vue radio button - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/radio-button/",
+      "name": "Radio Button"
+  },
+  {
+      "description": "vue modal generator - a simple and fast way to create a bootstrap 4 modals with custom styles, sizes, animations and positions.",
+      "title": "vue modal generator - free, online editor for bootstrap 4 modals",
+      "link": "/docs/b4/vue/modals/generator/",
+      "name": "Modal Generator"
+  },
+  {
+      "description": "vue bootstrap textarea is an input dedicated for a large volume of text. it may be used in a variety of components like forms, comment sections, and forums.",
+      "title": "vue textarea - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/textarea/",
+      "name": "Textarea"
+  },
+  {
+      "description": "vue bootstrap timeline is a component which can be used to display content in chronological order. listed items may contain not only text but also images.",
+      "title": "vue timeline - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/timeline/",
+      "name": "Timeline"
+  },
+  {
+      "description": "%%excerpt%% bootstrap vue chat is a component dedicated for text-based communication between two or more users in real time. build with conversations list sidebar.",
+      "title": "vue chat - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/chat/",
+      "name": "Chat"
+  },
+  {
+      "description": "vue bootstrap accordion is a component which organizes content within collapsable items. accordion allows showing only one collapsed item at the same time.",
+      "title": "vue accordion - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/accordion/",
+      "name": "Accordion"
+  },
+  {
+      "description": "vue bootstrap alerts are feedback messages which are displayed after specific actions preceded by the user. length of the text is not limited.",
+      "title": "vue alerts - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/alerts/",
+      "name": "Alerts"
+  },
+  {
+      "description": "vue bootstrap background image is an illustration chosen by a user placed behind all other objects on the website. it may be full or partially visible.",
+      "title": "vue background image - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/background-image/",
+      "name": "Background Image"
+  },
+  {
+      "description": "vue bootstrap mega menu is a navigation component which enhance standard navbar features. extended dropdown contains images and categorized links.",
+      "title": "vue mega menu - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/navigation/mega-menu/",
+      "name": "Mega Menu"
+  },
+  {
+      "description": "vue bootstrap video is a component which embeds a video file in dom. it can be used in carousels, modals, pages backgrounds or iframes.",
+      "title": "vue video - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/video/",
+      "name": "Video"
+  },
+  {
+      "description": "vue bootstrap gradient is a linear color progression - a transition between two colors is fluent. gradient can be used in various of components.",
+      "title": "vue gradient - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/gradients/",
+      "name": "Gradient"
+  },
+  {
+      "description": "vue bootstrap gallery is a component which compiles a number of media in one interactive collection presented in basic or more advanced lightboxes.",
+      "title": "vue gallery - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/gallery/",
+      "name": "Gallery"
+  },
+  {
+      "description": "vue bootstrap hamburger menu is a navigation with additional hamburger looks like icon which activates hidden menu elements in navbar or sidenav.",
+      "title": "vue hamburger menu - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/navigation/hamburger-menu/",
+      "name": "Hamburger Menu"
+  },
+  {
+      "description": "vue bootstrap google map is a component which displays a map of an area defined by a user. maps can be used in components like forms and modals.",
+      "title": "vue google maps - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/google-maps/",
+      "name": "Google Maps"
+  },
+  {
+      "description": "vue bootstrap iframe is an html document which is embedded in another html doc on a web page. iframes are used to insert content from another source.",
+      "title": "vue iframe - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/iframe/",
+      "name": "Iframe"
+  },
+  {
+      "description": "vue bootstrap slider is an interactive component that lets the user swiftly slide through possible values spread on the desired range.",
+      "title": "vue slider - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/slider/",
+      "name": "Slider (range input)"
+  },
+  {
+      "description": "vue bootstrap streak is a horizontal block containing text, uses to separate content sections or highlight some piece of information.",
+      "title": "vue streak - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/streak/",
+      "name": "Streak"
+  },
+  {
+      "description": "learn the most powerful javascript library by creating your own app. we'll guide you step by step from basic to advanced concepts of vue technology.",
+      "title": "vue tutorial - your own vue bootstrap app, step by step",
+      "link": "/education/vue/",
+      "name": " creating a Vue Bootstrap app, step by step"
+  },
+  {
+      "description": "latest vue, bootstrap & material design. 500+ material ui elements, 600+ material icons, 74 css animations, sass files and many more. no jquery.",
+      "title": "vue bootstrap with material design - powerful and free ui kit",
+      "link": "https://mdbootstrap.com/docs/b4/vue/",
+      "name": "Material Design for Bootstrap (Vue version)"
+  },
+  {
+      "description": "%%excerpt%% %%excerpt%% multiple plugins for vue.js, addons which enhance your vue bootstrap project. quick install, easy to use & customize. huge community and fast support.",
+      "title": "",
+      "link": "/docs/b4/vue/plugins/",
+      "name": "MDB Vue plugins & addons"
+  },
+  {
+      "description": "vue bootstrap switch is a simple component used for activating one of two predefined options. commonly used as an on/off button.",
+      "title": "vue switch - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/switch/",
+      "name": "Switch"
+  },
+  {
+      "description": "vue bootstrap file input is a field which user can use to upload one or more files (photos, documents or any other file type) from the local storage",
+      "title": "vue file input - bootstrap 4 & material desing. examples & tutorial",
+      "link": "/docs/b4/vue/forms/file-input/",
+      "name": "File Input"
+  },
+  {
+      "description": "vue bootstrap pills are simple navigation components that expedite browsing through various options in the layout.",
+      "title": "vue pills - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/pills/",
+      "name": "Pills"
+  },
+  {
+      "description": "vue bootstrap media provides you with various ways of presenting images and videos to your audience thanks to bootstrap way of handling those elements.",
+      "title": "vue media - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/layout/media-object/",
+      "name": "Media Object"
+  },
+  {
+      "description": "vue bootstrap multiselect allows users to tick multiple options from a standard vue bootstrap select.",
+      "title": "vue multiselect - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/multiselect/",
+      "name": "Multiselect"
+  },
+  {
+      "description": "vue bootstrap notifications are feedback messages which are displayed after specific actions preceded by the user. length of the text is not limited.",
+      "title": "vue notifications - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/advanced/notifications/",
+      "name": "Notifications"
+  },
+  {
+      "description": "vue bootstrap jumbotron is a responsive component which the main goal is to focus visitor's attention or highlight the special piece of information.",
+      "title": "vue jumbotron - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/jumbotron/",
+      "name": "Jumbotron"
+  },
+  {
+      "description": "vue bootstrap social buttons are buttons which are dedicated for social media usage. font awesome covers icons for all major platforms.",
+      "title": "vue social buttons - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/buttons-social/",
+      "name": "Social Buttons"
+  },
+  {
+      "description": "vue bootstrap button groups are buttons grouped together in a single line with no space between them. they can be grouped both vertically and horizontally.",
+      "title": "vue buttons group - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/button-group/",
+      "name": "Button Group"
+  },
+  {
+      "description": "vue bootstrap navs is a class which can transform a list of items into navigation components or tabs/pills. navs helps to build more advanced components.",
+      "title": "vue navs - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/navigation/navs/",
+      "name": "Navs"
+  },
+  {
+      "description": "vue bootstrap parallax is a design effect visible while scrolling down - background image is moving with a different speed than the foreground content.",
+      "title": "vue parallax - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/css/parallax/",
+      "name": "Parallax"
+  },
+  {
+      "description": "by using our predefined vue modal styles you can add some emotional weight to your information, ranging from a simple warning to critical system failure or from an operation success to a neutral information.",
+      "title": "vue modal styles - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/modals/customization/",
+      "name": "Modal Styles"
+  },
+  {
+      "description": "vue bootstrap modals is set of advanced modal examples which you can use in your project. modal cookies, coupon, poll, cart, youtube and many more.",
+      "title": "vue modal - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/modals/additional/",
+      "name": "Modal Examples & Templates"
+  },
+  {
+      "description": "vue bootstrap modal forms are displayed-on-action pop-up forms that used for gathering data from a website visitors and register or log users.",
+      "title": "vue modal form - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/modals/forms/",
+      "name": "Modals Forms"
+  },
+  {
+      "description": "vue bootstrap modal events are emitted by the component on consecutive stages of its life cycle. use them to hook in custom handlers and orchestrate modals in a wider user experience context.",
+      "title": "vue modal events - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/modals/events/",
+      "name": "Modal Events"
+  },
+  {
+      "description": "vue bootstrap input group is used for collecting data entered by users. it usually contains buttons, text areas or other inputs. with this component, your forms are attractive and easy to customize.",
+      "title": "vue input group - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/input-group/",
+      "name": "Input Group"
+  },
+  {
+      "description": "learn how to use material design for bootstrap vue using javascript at basic and advanced level. read our visual guide and comprehensive tutorial about the newest bootstrap 4.",
+      "title": "vue advanced demo - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/demo/",
+      "name": "Advanced Demo"
+  },
+  {
+      "description": "vue bootstrap edge header is a full-width block located on the top of a page as a part of a background for a card. it is a component unique for material design.",
+      "title": "vue edge header - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/edge-header/",
+      "name": "Edge Header"
+  },
+  {
+      "description": "vue bootstrap waves effect is an impression of circular overlay movement, triggered by clicking the object, flowing from the center of the click.",
+      "title": "vue waves effect - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/waves-effect/",
+      "name": "Waves Effect"
+  },
+  {
+      "description": "vue bootstrap blog components is a set of components which are dedicated to building a blog or any other content-oriented website.",
+      "title": "vue blog components - bootstrap 4 & material design. examples & tutorial",
+      "link": "plugins/vue/blog-components/",
+      "name": "Blog Components"
+  },
+  {
+      "description": "vue bootstrap e-commerce components is a set of components which are necessary to build online stores and any other e-commerce business.",
+      "title": "vue e-commerce components - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/e-commerce-components/",
+      "name": "Commerce Components"
+  },
+  {
+      "description": "vue bootstrap preloaders (also known as loaders) are simple animations that are used to keep visitors entertained while the page is still loading, which helps to increase the user experience.",
+      "title": "vue loader/spinner - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/components/spinners/",
+      "name": "Loader / Spinner"
+  },
+  {
+      "description": "vue bootstrap mobile gestures are touch-based interactions with mobile devices. various of different fingers movements indicate particular components responses.",
+      "title": "vue mobile - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/advanced/mobile/",
+      "name": "Mobile"
+  },
+  {
+      "description": "vue bootstrap overflow are lines placed on the edges of buttons, images, and other web elements. additionally, border-radius class rounds the elements corners.",
+      "title": "vue overflow - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/overflow/",
+      "name": "Overflow"
+  },
+  {
+      "description": "plenty of predefined sections dedicated for various website - blog, e-commerce, magazine, contact, testimonials, social, team and much more.",
+      "title": "vue bootstrap sections - blog, e-commerce, contact & many more",
+      "link": "/docs/b4/vue/sections/demo/",
+      "name": "Sections"
+  },
+  {
+      "description": "vue bootstrap smooth scroll is an animated movement from a trigger - button, link or any other clickable element - to another place of the same page.",
+      "title": "vue smooth scroll - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/advanced/scroll/",
+      "name": "Scrollbar & smooth scroll"
+  },
+  {
+      "description": "md bootstrap vue file upload plugin is an extension that allows you to upload files by using drag and drop functionality. easy to use, setup and customize.",
+      "title": "vue bootstrap drag and drop file upload - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/file-upload/",
+      "name": "Drag and Drop File Upload"
+  },
+  {
+      "description": "vue bootstrap calendar plugin is an extension that allows you to create calendar functionality.",
+      "title": "vue calendar plugin - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/full-calendar/",
+      "name": "Calendar"
+  },
+  {
+      "description": "vue bootstrap wysiwyg editor is a lightweight plugin that enables rich text editing on your website.",
+      "title": "vue wysiwyg plugin - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/wysiwyg/",
+      "name": "WYSIWYG"
+  },
+  {
+      "description": "vue table editor is an extension that allows you to create customized, fully editable tables. easy to use, setup and customize.",
+      "title": "vue table editor plugin - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/table-editor/",
+      "name": "Table Editor"
+  },
+  {
+      "description": "vue bootstrap masonry is a grid layout based on columns.",
+      "title": "vue masonry - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/layout/masonry/",
+      "name": "Masonry"
+  },
+  {
+      "description": "vue bootstrap stretched link can make any html element or vue component clickable by “stretching” a nested link via css.",
+      "title": "vue stretched link - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/utilities/stretched-link/",
+      "name": "Stretched Link"
+  },
+  {
+      "description": "vue bootstrap sortable plugin is an extension that allows you to move, reorder, sort and organize elements on your website by using drag and drop functionality.",
+      "title": "vue sortable plugin - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/sortable/",
+      "name": "Sortable"
+  },
+  {
+      "description": "vue bootstrap color picker plugin allows you to select different colors. you can successfully use it in various product wizards, clothing sales, or other situations where you need to be able to choose a color.",
+      "title": "vue color picker - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/color-picker/",
+      "name": "Color Picker"
+  },
+  {
+      "description": "vue bootstrap filter plugin is an extension perfect for introducing vistors to a number of images, which can be freely filtered depending on the category. easy to use, setup and customize.",
+      "title": "vue filter plugin - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/plugins/filter/",
+      "name": "Filter"
+  },
+  {
+      "description": "bootstrap vue card animations is a set of standard illusions of motions that can be applied to the bootstrap cards to improve the user experience.",
+      "title": "vue card animation",
+      "link": "/docs/b4/vue/plugins/card-animations/",
+      "name": "Card Animation"
+  },
+  {
+      "description": "vue bootstrap treeview represents a hierarchical view of information, where each item can have a number of subitems.",
+      "title": "vue treeview",
+      "link": "/docs/b4/vue/plugins/treeview/",
+      "name": "Treeview"
+  },
+  {
+      "description": "bootstrap vue rating plugin can be used to allow the users to share their opinion about the product, documentation page, photo and more.",
+      "title": "vue star rating",
+      "link": "/docs/b4/vue/plugins/rating/",
+      "name": "Star Rating"
+  },
+  {
+      "description": "vue bootstrap contact forms are components designed to collect users info in exchange for providing them information, promotions and content usually by emails.",
+      "title": "vue contact form - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/contact/",
+      "name": "Contact form"
+  },
+  {
+      "description": "here is vue combination of colors based on material design color system can be used to create a color theme that reflects your brand or style.",
+      "title": "vue color combination - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/css/color-combinations/",
+      "name": "Color combinations"
+  },
+  {
+      "description": "vue class mixin significantly facilitates the addition of margins or padding to vue components.",
+      "title": "vue mixin - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/mixins/class/",
+      "name": "Class Mixin"
+  },
+  {
+      "description": "vue animate on scroll is a custom directive which allows triggering an animation once a component is fully visible",
+      "title": "vue animate on scroll directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/animate-on-scroll/",
+      "name": "Animate On Scroll"
+  },
+  {
+      "description": "vue copy to clipboard is a custom directive which copies a given value to a user's clipboard when the component is clicked",
+      "title": "mdb vue clipboard directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/clipboard/",
+      "name": "Clipboard"
+  },
+  {
+      "description": "vue hotkey is a custom directive which allows to set callbacks for key combinations",
+      "title": "vue hotkey directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/hotkey/",
+      "name": "Hotkey"
+  },
+  {
+      "description": "vue infinite scroll is a custom directive which allows calling a method each time a user scrolls to the end of a container",
+      "title": "vue infinite scroll directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/infinite-scroll/",
+      "name": "Infinite Scroll"
+  },
+  {
+      "description": "vue scroll lock is a custom directive which disables scrolling of a body element",
+      "title": "vue scroll lock directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/scroll-lock/",
+      "name": "Scroll Lock"
+  },
+  {
+      "description": "vue smooth scroll is a custom directive which allows to smoothly scroll content into view",
+      "title": "vue smooth scroll directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/smooth-scroll/",
+      "name": "Smooth Scroll"
+  },
+  {
+      "description": "vue resize is a custom directive which allows calling a method each time user resizes the window.",
+      "title": "vue resize directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/resize/",
+      "name": "Resize"
+  },
+  {
+      "description": "vue touch is a custom directive that allows using touch events such as pinch, pan, swipe, long & double tap.",
+      "title": "vue touch directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/touch/",
+      "name": "Touch"
+  },
+  {
+      "description": "vue input mask is a custom directive which allows to set a predefined format of forms.",
+      "title": "vue input mask directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/input-mask/",
+      "name": "Input Mask"
+  },
+  {
+      "description": "vue lazyload is a custom directive which loads media only when they are visible on the screen.",
+      "title": "vue lazyload directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/lazy-load/",
+      "name": "Lazy Load"
+  },
+  {
+      "description": "vue click outside is a custom directive which allows watching clicks outside the container.",
+      "title": "vue click outside directive - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/click-outside/",
+      "name": "Click Outside"
+  },
+  {
+      "description": "tutorial which will let you write custom scss code, as well as changes of variables or mixins to both the scss files and the project itself.",
+      "title": "vue style customization - material design for bootstrap",
+      "link": "/docs/b4/vue/getting-started/styles-customization/",
+      "name": "Styles customization"
+  },
+  {
+      "description": "vue waves is a custom directive which adds on-click ripple effect to any element.",
+      "title": "vue waves - bootstrap 4 & material design. examples & tutorial.",
+      "link": "/docs/b4/vue/directives/waves/",
+      "name": "Waves"
+  },
+  {
+      "description": "vue dummy is a custom directive which loads placeholders for images, text, lists and tables.",
+      "title": "vue dummy - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/dummy/",
+      "name": "Dummy"
+  },
+  {
+      "description": "vue intersection observer is a custom directive which allows calling a method when an element is visible on the screen.",
+      "title": "vue intersection observer - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/intersection-observer/",
+      "name": "Intersection Observer"
+  },
+  {
+      "description": "vue mutation observer is a custom directive which allows detecting updates of an element.",
+      "title": "vue mutation observer - bootstrap 4 & material design",
+      "link": "/docs/b4/vue/directives/mutation-observer/",
+      "name": "Mutation Observer"
+  },
+  {
+      "description": "mdb vue draggable plugin provides a custom directive which allows moving objects by clicking on them and dragging them anywhere within the container.",
+      "title": "",
+      "link": "/docs/b4/vue/plugins/draggable/",
+      "name": "Bootstrap Draggable"
+  },
+  {
+      "description": "thanks to google’s strong advocacy of pwa, it is safe to say that pwa is the future of web applications. in this tutorial series, we are going to explain the core concepts involved in creating pwa apps with vue.",
+      "title": "vue progressive web app tutorial",
+      "link": "/education/vue/pwa/",
+      "name": " Getting started"
+  },
+  {
+      "description": "vue bootstrap 4 integration with the most popular plugin enhancing the possibilities of standard tables. available in material design or default bootstrap style.",
+      "title": "",
+      "link": "/docs/b4/vue/tables/datatables-1/",
+      "name": "Datatables 1"
+  },
+  {
+      "description": "vue bootstrap time picker is a component which allows user to select a time in the bootstrap form.",
+      "title": "vue timepicker - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/time-picker/",
+      "name": "Time Picker 2"
+  },
+  {
+      "description": "vue bootstrap sidenav is a vertical navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.",
+      "title": "vue sidenav - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/navigation/sidenav/",
+      "name": "SideNav 2"
+  },
+  {
+      "description": "vue bootstrap date picker is a plugin that adds a function of selecting date in a user-friendly way.",
+      "title": "vue datepicker - bootstrap 4 & material design. examples & tutorial",
+      "link": "/docs/b4/vue/forms/date-picker-1/",
+      "name": "Date Picker 1"
+  }
+]
