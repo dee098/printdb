@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Partners</title>
+      {% include '__bootstrap.html' %} 
+    </head>
+  <body>
+    {% include '__banner.html' %} 
+    <div class="container">
+      <h1 class="text-center mt-2 mb-4"> Partners :</h1>
+      <p>
+        <table class="table table-dark table-striped">
+           <thead>
+          <tr>
+            <th scope="col">Company name</th>
+            <th scope="col">Address</th>
+            <th scope="col">Contact name</th>
+            <th scope="col">Mobile</th>
+            <th scope="col">Remove all equipment</th>
+            <th scope="col">Edit</th>
+          </tr>
+              </thead>
+          <tbody>
+
+             {% for row_location  in location %}
+                {% include '_row_partners_short2.html' %}
+             {% endfor %}
+          </tbody>
+
+        </table>
+      </p>
+        <a class="nav-link" target="_blank" href="/add_location#">Add location</a>
+    </div>
+    {% include '__nav.html' %}  
+  </body>
+</html>

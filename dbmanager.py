@@ -1,10 +1,24 @@
 # from sqlalchemy import  create_engine, text, select, MetaData
 from sqlalchemy import *
+from sqlalchemy import insert
+
+from sqlalchemy import create_engine
+from sqlalchemy.orm import declarative_base
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy import Column, Integer, String
+
 import os
 
 
 db_connection = os.environ['DB_CONNECTION_STR']
 engine = create_engine(db_connection)
+Base = declarative_base()
+
+# class PartnerCompany(Base):
+#   __tablename__ = 'partner_company'
+#   id = Column(Integer, primary_key=True)
+#   company_name = Column(String(250))
+#   description = Column(String(250))
 
 
 def load_jobs_from_db():
@@ -95,3 +109,56 @@ def load_partners_from_db():
     # for row in result:
     #   jobs.append(row._mapping)
     return locations
+
+
+def save_partners_employee_to_db(data):
+  with engine.connect() as con:
+
+    query = text("INSERT INTO partners_employee (contact_name, mobile, email) VALUES (:contact_name)")
+    query = query.bindparams(contact_name=data['contact_name'])  
+    result = con.execute(query).all()
+
+
+def save_partners_copany_to_db(data):
+  with engine.connect() as conn:
+    __tablename__ = 'partner_company'
+    Base.metadata.tables['partner_company'].insert().execute(company_name=data['company_name'], description=data['description'])
+    
+    # stmt =insert(PartnerCompany).values(company_name=data['company_name'], address=data['address'], phone=data['phone'], email=data['email'])
+    
+    # stmt = insert('partner_company').values(company_name="spongebob", description="Spongebob Squarepants")
+    # result = conn.execute(stmt)
+    # conn.commit()
+  # Base.metadata.tables['partner_company'].create(engine)
+  # Session = sessionmaker(bind=engine)
+  # session = Session()
+
+  # newToner = PartnerCompany(id = 1,
+  #                           company_name = 'blue',
+  #                           description = '#0F85FF')
+
+  # qry_object = session.query(PartnerCompany).where(PartnerCompany.id == newToner.id)
+
+  # if qry_object.first() is None:
+  #     session.add(newToner)
+  # else:
+  #     qry_object.update(newToner)
+  # session.commit()
+
+
+    # stmt = text("INSERT INTO partner_company (company_name, description) VALUES (:company_name, :description)")
+    # stmt = stmt.bindparams(company_name=data['company_name'], description=data['description']) 
+    # con.execute(stmt).all()
+
+
+  # stmt = text("SELECT * FROM attendance WHERE user_id =:x")
+  # stmt = stmt.bindparams(x="1")
+  # res= session.execute(stmt).all()
+
+
+
+
+
+
+
+

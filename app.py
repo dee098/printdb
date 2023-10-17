@@ -1,4 +1,5 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, request
+from flask.wrappers import Request
 from dbmanager import *
 import json
 
@@ -25,6 +26,26 @@ def location():
 def partners():
   partners_list = load_partners_from_db()
   return render_template('table_partners.html', location=partners_list)
+
+@app.route("/partners2")
+def partners2():
+  partners_list = load_partners_from_db()
+  return render_template('table_partners2.html', location=partners_list)
+
+@app.route("/partners3")
+def partners3():
+  partners_list = load_partners_from_db()
+  return render_template('table_partners3.html', location=partners_list)
+
+@app.route("/add_location")
+def add_location():
+  return render_template('_add_location.html')
+
+@app.route("/add_location/company", methods=['POST'])
+def add_location_company():
+  data = request.form
+  save_partners_copany_to_db(data)
+  return jsonify(data)
 
 @app.route("/repairs/<id>")
 def show_repairs_by_id(id):

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Partners</title>
+      {% include '__bootstrap.html' %} 
+    </head>
+  <body>
+    {% include '__banner.html' %} 
+    <div class="container">
+      <h1 class="text-center mt-2 mb-4"> add Partner :</h1>
+      <div class="border-bottom row" style="margin-bottom:16px; padding-bottom:8px">
+      <form action="/add_location/company" method="post" >
+          <div class="mb-2">
+        <label>Partner company name</label><br> 
+        <input type="text" name="company_name" placeholder="MAIB">
+        </div>
+          <div class="mb-2">
+        <label>description</label> <br>
+        <textarea name="description" placeholder=""></textarea>
+        </div>
+        <input type="submit" value="submit" class="btn btn-outline-primary">
+      </form>
+        
+
+
+        
+
+    </div>
+    {% include '__nav.html' %}  
+  </body>
+</html>
