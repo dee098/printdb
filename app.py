@@ -42,6 +42,11 @@ def partners4():
   partners_list = load_partners_from_db()
   return render_template('table_partners4.html', location=partners_list)
 
+@app.route("/partners5")
+def partners5():
+  partners_list = load_partners_from_db()
+  return render_template('table_partners5.html', location=partners_list)
+
 @app.route("/add_location")
 def add_location():
   return render_template('_add_location.html')

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Partners</title>
+      {% include '__bootstrap.html' %} 
+  </head>
+  <body class="fixed-sn mdb-skin-custom">
+    {% include '__dbm.html' %}  
+    {% include '__banner.html' %} 
+    <main class="">
+    <div class="container  mt-5 ">
+    <!--/Section: -->
+
+    <div class="pt-1"></div>
+    <hr class="my-4">
+
+    <!--Section: -->
+    <section id="datatable-vertical-dynamic-height">
+
+      <!--Title-->
+      <h2 class="section-heading mb-4">
+        Partners :
+      </h2>
+
+
+      <!--Section: Live preview-->
+      <section class="section-no-border">
+        <section>
+      <div class="bg-white border rounded-5">
+
+
+        <table id="dtDynamicVerticalScrollExample" class="table table-striped table-bordered table-sm" cellspacing="0"
+          width="100%">
+          <thead>
+           <tr>
+             <th class="th-sm" scope="col">Company name</th>
+             <th class="th-sm " scope="col">Address</th>
+             <th class="th-sm" scope="col">Contact name</th>
+             <th class="th-sm" scope="col">Mobile</th>
+             <th class="th-sm" scope="col">Remove all equipment</th>
+             <th class="th-sm" scope="col">Edit</th>
+           </tr>
+          </thead>
+          <tbody>
+             {% for row_location  in location %}
+                {% include '_row_partners_short2.html' %}
+             {% endfor %}
+          </tbody>
+          <tfoot>
+            <tr>
+              <th>Company name</th>
+              <th>Address</th>
+              <th>Contact name</th>
+              <th>Mobile</th>
+              <th>Remove all equipment</th>
+              <th>Edit</th>
+            </tr>
+          </tfoot>
+        </table>
+        <div class="p-4 text-center border-top mobile-hidden">
+              <a class="btn btn-link px-3 show-code-btn" data-toggle="collapse" href="#test" role="button" aria-expanded="false" aria-controls="example-29">
+                <i class="fas fa-code mr-md-2"></i>
+                <span class="d-none d-md-inline-block">
+                  Test
+                </span>
+              </a>
+
+
+              <a class="btn btn-link px-3" target="_blank" href="/add_location#">
+                <i class="fas fa-file-code mr-md-2 pe-none"></i>
+                <span class="d-none d-md-inline-block export-to-snippet pe-none">
+                    Add location
+                </span>
+              </a>
+      </div>
+      <div class="pt-1"></div>
+        <hr class="my-4">
+
+        <!--Section: -->
+        <section id="datatable-vertical-dynamic-height">
+
+          <!--Title-->
+          <h2 class="section-heading mb-4">
+            
+          </h2>
+        </section>
+
+    </div>
+  </section>
+
+      </section>
+    </section>
+</div>
+
+    {% include '__nav.html' %}  
+
+
+  </body>
+</html>
