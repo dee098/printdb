@@ -6,6 +6,10 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import Column, Integer, String
+from models import Base, User, Comment
+
+
+
 
 import os
 
@@ -55,10 +59,10 @@ def load_job_from_db(job_id):
 def load_equipment_from_db():
   with engine.connect() as con:
     # result = con.execute(text("SELECT * FROM equipment_list"))
-    query = 'SELECT eqli1.id, eqlo1.sorter_id as sorter, eqmo1.model, eqli1.serial_number, '\
+    query = 'SELECT eqli1.id, eqlo1.sorter_id as sorter, eqmo1.model_name, eqli1.serial_number, '\
     'ma1.name, eqlo1.locations_id, lo1.address, paco1.company_name '\
     'FROM equipment_list AS eqli1 '\
-    'JOIN equipment_model AS eqmo1 ON eqli1.model_id = eqmo1.id '\
+    'JOIN equipment_models AS eqmo1 ON eqli1.model_id = eqmo1.id '\
     'JOIN manufacturers AS ma1 ON eqmo1.manufacturer_id = ma1.id '\
     'JOIN equipment_locations AS eqlo1 ON eqli1.model_id = eqlo1.equipment_id '\
     'JOIN locations AS lo1 ON lo1.id = eqlo1.locations_id '\
@@ -76,11 +80,11 @@ def load_equipment_from_db():
 def load_location_from_db():
   with engine.connect() as con:
 
-    query = 'SELECT eqli1.serial_number, eqmo1.model, ma1.name, lo1.address, '\
+    query = 'SELECT eqli1.serial_number, eqmo1.model_name, ma1.name, lo1.address, '\
     'paco1.company_name,  eqlo1.locations_id, eqlo1.equipment_id '\
     'FROM equipment_locations as eqlo1 '\
     'JOIN equipment_list AS eqli1 ON eqli1.id = eqlo1.equipment_id '\
-    'JOIN equipment_model AS eqmo1 ON eqmo1.id = eqli1.model_id '\
+    'JOIN equipment_models AS eqmo1 ON eqmo1.id = eqli1.model_id '\
     'JOIN manufacturers AS ma1 ON ma1.id = eqmo1.manufacturer_id '\
     'JOIN locations AS lo1 ON lo1.id = eqlo1.locations_id '\
     'JOIN partner_company AS paco1 ON paco1.id = lo1.company_id '\
@@ -120,9 +124,12 @@ def save_partners_employee_to_db(data):
 
 
 def save_partners_copany_to_db(data):
-  with engine.connect() as conn:
-    __tablename__ = 'partner_company'
-    Base.metadata.tables['partner_company'].insert().execute(company_name=data['company_name'], description=data['description'])
+  Base.metadata.create_all(bind=engine)
+
+# def save_partners_copany_to_db(data):
+#   with engine.connect() as conn:
+#     __tablename__ = 'partner_company'
+#     Base.metadata.tables['partner_company'].insert().execute(company_name=data['company_name'], description=data['description'])
     
     # stmt =insert(PartnerCompany).values(company_name=data['company_name'], address=data['address'], phone=data['phone'], email=data['email'])
     

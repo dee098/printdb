@@ -2,3 +2,6 @@ Flask
 gunicorn
 sqlalchemy
 pymysql
+greenlet
+typing_extensions
+waitress
