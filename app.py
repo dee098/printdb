@@ -67,9 +67,22 @@ def show_repairs_by_id(id):
 
 if __name__ == "__main__":
   print("i am here")
+  # https://flask.palletsprojects.com/en/3.0.x/deploying/
+ 
+  ## # Debug/Development server
   app.run(host='0.0.0.0', debug=True)
+
+  ## Production waitress
+  ##  pip install waitress
   # from waitress import serve
   # serve(app, host='0.0.0.0', port=8080)
+
+  ## Production WSGIServer
+  ## Install gevent using pip install gevent
+  # http_server = WSGIServer(('', 8080), app)
+  # http_server.serve_forever()
+
+  
 
 
 
