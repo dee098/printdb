@@ -47,6 +47,19 @@ def partners5():
   partners_list = load_partners_from_db()
   return render_template('table_partners5.html', location=partners_list)
 
+@app.route("/login", methods=['GET', 'POST'])  # Update to handle both GET and POST methods
+def login():
+  if request.method == 'POST':
+    # Handle the POST request
+    # Example: Validate the credentials and perform login logic
+    username = request.form['username']
+    password = request.form['password']
+    # Do something with the username and password
+    return "Login successful"  # Placeholder response
+  else:
+    # Handle the GET request
+    return render_template('form_login.html')
+
 @app.route("/add_location")
 def add_location():
   return render_template('_add_location.html')
